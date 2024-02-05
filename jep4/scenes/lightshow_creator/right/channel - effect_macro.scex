@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648822952" name="HotboxExa(11ch) #9" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822953" name="HotboxExa(11ch) #10" model="HotboxExa(11ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="no_function" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="0"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="fade_in" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="47"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="47"/>
+      </Fixture>
+    </Step>
+    <Step name="fade_out" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="79"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="79"/>
+      </Fixture>
+    </Step>
+    <Step name="fade_in_fade_out" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="111"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="111"/>
+      </Fixture>
+    </Step>
+    <Step name="multicolor_fade" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="146"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="146"/>
+      </Fixture>
+    </Step>
+    <Step name="fade_in_fade_ou_auto" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="178"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="178"/>
+      </Fixture>
+    </Step>
+    <Step name="multi_color_jump" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="207"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="207"/>
+      </Fixture>
+    </Step>
+    <Step name="audio" length="500">
+      <Fixture id="1648822952">
+        <Channel index="8" name="effect_macro" value="255"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="8" name="effect_macro" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

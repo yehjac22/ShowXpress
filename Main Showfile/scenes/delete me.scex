@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1654796523" name="Sharpy(standard)" model="Sharpy(standard)"/>
+    <Fixture id="1654796524" name="Sharpy(standard) #2" model="Sharpy(standard)"/>
+    <Fixture id="1654796525" name="Sharpy(standard) #3" model="Sharpy(standard)"/>
+    <Fixture id="1654796526" name="Sharpy(standard) #4" model="Sharpy(standard)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1654796523">
+        <Channel index="0" name="color" value="62"/>
+        <Channel index="9" name="pan" value="218" fade="1"/>
+        <Channel index="10" name="upan" value="128" fade="1"/>
+        <Channel index="11" name="tilt" value="22" fade="1"/>
+        <Channel index="12" name="utilt" value="85" fade="1"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="0" name="color" value="62"/>
+        <Channel index="9" name="pan" value="224" fade="1"/>
+        <Channel index="10" name="upan" value="212" fade="1"/>
+        <Channel index="11" name="tilt" value="35" fade="1"/>
+        <Channel index="12" name="utilt" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="0" name="color" value="62"/>
+        <Channel index="9" name="pan" value="107" fade="1"/>
+        <Channel index="10" name="upan" value="88" fade="1"/>
+        <Channel index="11" name="tilt" value="34" fade="1"/>
+        <Channel index="12" name="utilt" value="44" fade="1"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="0" name="color" value="62"/>
+        <Channel index="9" name="pan" value="116" fade="1"/>
+        <Channel index="10" name="upan" value="88" fade="1"/>
+        <Channel index="11" name="tilt" value="30" fade="1"/>
+        <Channel index="12" name="utilt" value="44" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

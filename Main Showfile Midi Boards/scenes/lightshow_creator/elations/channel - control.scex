@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1655638218" name="DesignSpot250" model="DesignSpot250"/>
+    <Fixture id="1655638219" name="DesignSpot250 #2" model="DesignSpot250"/>
+  </Fixtures>
+  <Steps>
+    <Step name="color_normal" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="0"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="color_any_position" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="30"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="30"/>
+      </Fixture>
+    </Step>
+    <Step name="lamp_on" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="50"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="50"/>
+      </Fixture>
+    </Step>
+    <Step name="lamp_off" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="70"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="70"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_motors" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="82"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="82"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_xy" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="86"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="86"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_color" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="89"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="89"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_gobo" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="92"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="92"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_shutter" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="95"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="95"/>
+      </Fixture>
+    </Step>
+    <Step name="prog1" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="110"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="110"/>
+      </Fixture>
+    </Step>
+    <Step name="prog2" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="130"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="130"/>
+      </Fixture>
+    </Step>
+    <Step name="prog3" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="150"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="150"/>
+      </Fixture>
+    </Step>
+    <Step name="prog4" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="170"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="170"/>
+      </Fixture>
+    </Step>
+    <Step name="prog5" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="190"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="190"/>
+      </Fixture>
+    </Step>
+    <Step name="prog6" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="210"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="210"/>
+      </Fixture>
+    </Step>
+    <Step name="prog7" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="230"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="230"/>
+      </Fixture>
+    </Step>
+    <Step name="auto_music" length="500">
+      <Fixture id="1655638218">
+        <Channel index="15" name="control" value="255"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="15" name="control" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

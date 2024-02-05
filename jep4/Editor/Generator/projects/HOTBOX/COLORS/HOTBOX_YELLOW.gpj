@@ -1,0 +1,198 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 1
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1648820430
+Name = HotboxExa(11ch)
+DMX = 0
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1648822945
+Name = HotboxExa(11ch) #2
+DMX = 11
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1648822946
+Name = HotboxExa(11ch) #3
+DMX = 22
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_3]
+ID = 1648822947
+Name = HotboxExa(11ch) #4
+DMX = 33
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_4]
+ID = 1648822948
+Name = HotboxExa(11ch) #5
+DMX = 44
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_5]
+ID = 1648822949
+Name = HotboxExa(11ch) #6
+DMX = 55
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_6]
+ID = 1648822950
+Name = HotboxExa(11ch) #7
+DMX = 66
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_7]
+ID = 1648822951
+Name = HotboxExa(11ch) #8
+DMX = 77
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_8]
+ID = 1648822952
+Name = HotboxExa(11ch) #9
+DMX = 88
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_9]
+ID = 1648822953
+Name = HotboxExa(11ch) #10
+DMX = 99
+Channels = dimmer,red,green,blue,amber,white,uv,shutter,effect_macro,effect_speed,32bits_dimmer
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[dimmer]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[RGB]
+Selected = 1
+CurveName = Default Curve
+Transition = 2
+Duration = 50
+Shift = 0.0
+Point_0 = 43624,41334
+[amber]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[white]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[uv]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[shutter]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[effect_macro]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[effect_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[32bits_dimmer]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

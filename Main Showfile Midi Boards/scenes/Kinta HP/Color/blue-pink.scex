@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1673017496" name="Kinta HP (12CH)" model="Kinta HP (12CH)"/>
+    <Fixture id="1673017497" name="Kinta HP (12CH) #2" model="Kinta HP (12CH)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1673017496">
+        <Channel index="0" name="Auto" value="0"/>
+        <Channel index="1" name="speed_control" value="0"/>
+        <Channel index="2" name="red" value="0"/>
+        <Channel index="3" name="green" value="0"/>
+        <Channel index="4" name="blue" value="255"/>
+        <Channel index="6" name="cyan" value="0"/>
+        <Channel index="7" name="magenta" value="255"/>
+        <Channel index="8" name="yellow" value="0"/>
+      </Fixture>
+      <Fixture id="1673017497">
+        <Channel index="0" name="Auto" value="0"/>
+        <Channel index="1" name="speed_control" value="0"/>
+        <Channel index="2" name="red" value="0"/>
+        <Channel index="3" name="green" value="0"/>
+        <Channel index="4" name="blue" value="255"/>
+        <Channel index="6" name="cyan" value="0"/>
+        <Channel index="7" name="magenta" value="255"/>
+        <Channel index="8" name="yellow" value="0"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

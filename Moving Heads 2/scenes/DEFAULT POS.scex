@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1682012018" name="Elation Design Wash Pro" model="Elation Design Wash Pro"/>
+    <Fixture id="1682012019" name="Elation Design Wash Pro #2" model="Elation Design Wash Pro"/>
+    <Fixture id="1681943361" name="PlatinumSpot15RPro(23ch) #2" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943362" name="PlatinumSpot15RPro(23ch) #3" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943363" name="PlatinumSpot15RPro(23ch) #4" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1682012020" name="Elation Design Wash Pro #3" model="Elation Design Wash Pro"/>
+    <Fixture id="1682012021" name="Elation Design Wash Pro #4" model="Elation Design Wash Pro"/>
+    <Fixture id="1681943012" name="PlatinumSpot15RPro(23ch)" model="PlatinumSpot15RPro(23ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="130">
+      <Fixture id="1682012018">
+        <Channel index="0" name="pan" value="86"/>
+        <Channel index="1" name="upan" value="85"/>
+        <Channel index="2" name="tilt" value="89"/>
+        <Channel index="3" name="utilt" value="64"/>
+      </Fixture>
+      <Fixture id="1682012019">
+        <Channel index="0" name="pan" value="86"/>
+        <Channel index="1" name="upan" value="85"/>
+        <Channel index="2" name="tilt" value="89"/>
+        <Channel index="3" name="utilt" value="64"/>
+      </Fixture>
+      <Fixture id="1681943361">
+        <Channel index="0" name="pan" value="169"/>
+        <Channel index="1" name="upan" value="245"/>
+        <Channel index="2" name="tilt" value="179"/>
+        <Channel index="3" name="utilt" value="23"/>
+        <Channel index="18" name="frost" value="0"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="0" name="pan" value="169"/>
+        <Channel index="1" name="upan" value="245"/>
+        <Channel index="2" name="tilt" value="179"/>
+        <Channel index="3" name="utilt" value="23"/>
+        <Channel index="18" name="frost" value="0"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="0" name="pan" value="169"/>
+        <Channel index="1" name="upan" value="245"/>
+        <Channel index="2" name="tilt" value="179"/>
+        <Channel index="3" name="utilt" value="23"/>
+        <Channel index="18" name="frost" value="0"/>
+      </Fixture>
+      <Fixture id="1682012020">
+        <Channel index="0" name="pan" value="86"/>
+        <Channel index="1" name="upan" value="85"/>
+        <Channel index="2" name="tilt" value="89"/>
+        <Channel index="3" name="utilt" value="64"/>
+      </Fixture>
+      <Fixture id="1682012021">
+        <Channel index="0" name="pan" value="86"/>
+        <Channel index="1" name="upan" value="85"/>
+        <Channel index="2" name="tilt" value="89"/>
+        <Channel index="3" name="utilt" value="64"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="0" name="pan" value="169"/>
+        <Channel index="1" name="upan" value="245"/>
+        <Channel index="2" name="tilt" value="179"/>
+        <Channel index="3" name="utilt" value="23"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

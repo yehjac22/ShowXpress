@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1654796523" name="Sharpy(standard)" model="Sharpy(standard)"/>
+    <Fixture id="1654796524" name="Sharpy(standard) #2" model="Sharpy(standard)"/>
+    <Fixture id="1654796525" name="Sharpy(standard) #3" model="Sharpy(standard)"/>
+    <Fixture id="1654796526" name="Sharpy(standard) #4" model="Sharpy(standard)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="shake_gobo13" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="233"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="233"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="233"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="233"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

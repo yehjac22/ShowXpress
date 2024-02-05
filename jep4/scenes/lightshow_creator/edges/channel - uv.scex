@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648820430" name="HotboxExa(11ch)" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822945" name="HotboxExa(11ch) #2" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822952" name="HotboxExa(11ch) #9" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822953" name="HotboxExa(11ch) #10" model="HotboxExa(11ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="0" length="500">
+      <Fixture id="1648820430">
+        <Channel index="6" name="uv" value="0"/>
+      </Fixture>
+      <Fixture id="1648822945">
+        <Channel index="6" name="uv" value="0"/>
+      </Fixture>
+      <Fixture id="1648822952">
+        <Channel index="6" name="uv" value="0"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="6" name="uv" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="255" length="500">
+      <Fixture id="1648820430">
+        <Channel index="6" name="uv" value="255"/>
+      </Fixture>
+      <Fixture id="1648822945">
+        <Channel index="6" name="uv" value="255"/>
+      </Fixture>
+      <Fixture id="1648822952">
+        <Channel index="6" name="uv" value="255"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="6" name="uv" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1682012018" name="Elation Design Wash Pro" model="Elation Design Wash Pro"/>
+    <Fixture id="1682012019" name="Elation Design Wash Pro #2" model="Elation Design Wash Pro"/>
+    <Fixture id="1682012020" name="Elation Design Wash Pro #3" model="Elation Design Wash Pro"/>
+    <Fixture id="1682012021" name="Elation Design Wash Pro #4" model="Elation Design Wash Pro"/>
+  </Fixtures>
+  <Steps>
+    <Step name="0" length="500">
+      <Fixture id="1682012018">
+        <Channel index="7" name="white" value="0"/>
+      </Fixture>
+      <Fixture id="1682012019">
+        <Channel index="7" name="white" value="0"/>
+      </Fixture>
+      <Fixture id="1682012020">
+        <Channel index="7" name="white" value="0"/>
+      </Fixture>
+      <Fixture id="1682012021">
+        <Channel index="7" name="white" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="255" length="500">
+      <Fixture id="1682012018">
+        <Channel index="7" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1682012019">
+        <Channel index="7" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1682012020">
+        <Channel index="7" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1682012021">
+        <Channel index="7" name="white" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

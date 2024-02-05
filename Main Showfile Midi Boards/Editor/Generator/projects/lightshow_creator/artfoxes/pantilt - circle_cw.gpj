@@ -1,0 +1,161 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 0
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1654796523
+Name = Sharpy(standard)
+DMX = 0
+Channels = color,shutter,dimmer,gobo,prism,prism_rotate,effect_macro,frost,focus,pan,upan,tilt,utilt,function,reset,lamp
+ReversePan = 0
+ReverseTilt = 1
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1654796524
+Name = Sharpy(standard) #2
+DMX = 16
+Channels = color,shutter,dimmer,gobo,prism,prism_rotate,effect_macro,frost,focus,pan,upan,tilt,utilt,function,reset,lamp
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1654796525
+Name = Sharpy(standard) #3
+DMX = 32
+Channels = color,shutter,dimmer,gobo,prism,prism_rotate,effect_macro,frost,focus,pan,upan,tilt,utilt,function,reset,lamp
+ReversePan = 0
+ReverseTilt = 1
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_3]
+ID = 1654796526
+Name = Sharpy(standard) #4
+DMX = 48
+Channels = color,shutter,dimmer,gobo,prism,prism_rotate,effect_macro,frost,focus,pan,upan,tilt,utilt,function,reset,lamp
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[color]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[shutter]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[dimmer]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[gobo]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[prism]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[prism_rotate]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[effect_macro]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[frost]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[focus]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[Pan/Tilt/uPan/uTilt]
+Selected = 1
+CurveName = Default Curve
+Transition = 2
+Duration = 200
+Shift = 0.0
+Point_0 = 0,32768
+Point_1 = 32767,65535
+Point_2 = 65535,32404
+Point_3 = 32767,0
+[function]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[reset]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[lamp]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

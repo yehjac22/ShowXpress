@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1681943361" name="PlatinumSpot15RPro(23ch) #2" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943362" name="PlatinumSpot15RPro(23ch) #3" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943363" name="PlatinumSpot15RPro(23ch) #4" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943012" name="PlatinumSpot15RPro(23ch)" model="PlatinumSpot15RPro(23ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="Colour Change Normal" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="9"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="9"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="9"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="9"/>
+      </Fixture>
+    </Step>
+    <Step name="Colour Change to Any Position" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="24"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="24"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="24"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="24"/>
+      </Fixture>
+    </Step>
+    <Step name="Colour and Gobo Change to Any Position" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="34"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="34"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="34"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="34"/>
+      </Fixture>
+    </Step>
+    <Step name="lamp_on" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="49"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="49"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="49"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="49"/>
+      </Fixture>
+    </Step>
+    <Step name="lamp_off" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="69"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="69"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="69"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="69"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_motors" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="82"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="82"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="82"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="82"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_xy" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="86"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="86"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="86"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="86"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_color" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="89"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="89"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="89"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="89"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_gobo" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="92"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="92"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="92"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="92"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_shutter" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="95"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="95"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="95"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="95"/>
+      </Fixture>
+    </Step>
+    <Step name="reset_others" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="98"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="98"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="98"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="98"/>
+      </Fixture>
+    </Step>
+    <Step name="pattern_01" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="109"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="109"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="109"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="109"/>
+      </Fixture>
+    </Step>
+    <Step name="pattern_02" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="129"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="129"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="129"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="129"/>
+      </Fixture>
+    </Step>
+    <Step name="pattern_03" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="149"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="149"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="149"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="149"/>
+      </Fixture>
+    </Step>
+    <Step name="pattern_04" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="169"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="169"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="169"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="169"/>
+      </Fixture>
+    </Step>
+    <Step name="pattern_05" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="189"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="189"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="189"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="189"/>
+      </Fixture>
+    </Step>
+    <Step name="pattern_06" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="209"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="209"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="209"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="209"/>
+      </Fixture>
+    </Step>
+    <Step name="pattern_07" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="229"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="229"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="229"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="229"/>
+      </Fixture>
+    </Step>
+    <Step name="audio" length="500">
+      <Fixture id="1681943361">
+        <Channel index="22" name="control" value="247"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="22" name="control" value="247"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="22" name="control" value="247"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="22" name="control" value="247"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1673017496" name="Kinta HP (12CH)" model="Kinta HP (12CH)"/>
+    <Fixture id="1673017497" name="Kinta HP (12CH) #2" model="Kinta HP (12CH)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="55">
+      <Fixture id="1673017496">
+        <Channel index="11" name="motor" value="83"/>
+      </Fixture>
+      <Fixture id="1673017497">
+        <Channel index="11" name="motor" value="83"/>
+      </Fixture>
+    </Step>
+    <Step length="55">
+      <Fixture id="1673017496">
+        <Channel index="11" name="motor" value="37"/>
+      </Fixture>
+      <Fixture id="1673017497">
+        <Channel index="11" name="motor" value="37"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

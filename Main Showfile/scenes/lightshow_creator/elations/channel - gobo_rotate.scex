@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1655638218" name="DesignSpot250" model="DesignSpot250"/>
+    <Fixture id="1655638219" name="DesignSpot250 #2" model="DesignSpot250"/>
+  </Fixtures>
+  <Steps>
+    <Step name="index" length="500">
+      <Fixture id="1655638218">
+        <Channel index="6" name="gobo_rotate" value="63"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="6" name="gobo_rotate" value="63"/>
+      </Fixture>
+    </Step>
+    <Step name="right_rotate" length="500">
+      <Fixture id="1655638218">
+        <Channel index="6" name="gobo_rotate" value="157"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="6" name="gobo_rotate" value="157"/>
+      </Fixture>
+    </Step>
+    <Step name="stop" length="500">
+      <Fixture id="1655638218">
+        <Channel index="6" name="gobo_rotate" value="190"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="6" name="gobo_rotate" value="190"/>
+      </Fixture>
+    </Step>
+    <Step name="left_rotate" length="500">
+      <Fixture id="1655638218">
+        <Channel index="6" name="gobo_rotate" value="224"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="6" name="gobo_rotate" value="224"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

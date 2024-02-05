@@ -1,0 +1,63 @@
+﻿ViewType = VIEW_TYPE_MIRROR
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 0
+3DViewShape = 
+2DViewImage = 
+
+Channel = mode
+
+Channel = sound sensitivity
+
+Channel = beam_effect_mode
+ closed,0,0 strobe,16,131 shake,194,194 open,255,255 
+
+Channel = select sd card
+ Miscellaneous/open,0,0 Miscellaneous/gobo1,17,17 Miscellaneous/gobo2,29,29 Miscellaneous/gobo3,40,40 Miscellaneous/gobo4,52,52 Miscellaneous/gobo5,64,64 Miscellaneous/gobo6,75,75 Miscellaneous/gobo7,87,87 Miscellaneous/gobo8,99,99 Miscellaneous/gobo9,110,110 Miscellaneous/gobo10,122,122 Miscellaneous/rotate,128,255 
+
+Channel = choose files
+
+Channel = nothing
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+
+Channel = ?
+

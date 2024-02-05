@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648822946" name="HotboxExa(11ch) #3" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822947" name="HotboxExa(11ch) #4" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822948" name="HotboxExa(11ch) #5" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822949" name="HotboxExa(11ch) #6" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822950" name="HotboxExa(11ch) #7" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822951" name="HotboxExa(11ch) #8" model="HotboxExa(11ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="green" length="50">
+      <Fixture id="1648822946">
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="255" fade="1"/>
+        <Channel index="3" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1648822947">
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="255" fade="1"/>
+        <Channel index="3" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1648822948">
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="255" fade="1"/>
+        <Channel index="3" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1648822949">
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="255" fade="1"/>
+        <Channel index="3" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1648822950">
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="255" fade="1"/>
+        <Channel index="3" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1648822951">
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="255" fade="1"/>
+        <Channel index="3" name="blue" value="0" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

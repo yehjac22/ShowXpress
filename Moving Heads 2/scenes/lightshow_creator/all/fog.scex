@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1682449228" name="fog" model="fog"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1682449228">
+        <Channel index="0" name="???" value="9"/>
+        <Channel index="1" name="???#2" value="9"/>
+      </Fixture>
+    </Step>
+    <Step length="3000">
+      <Fixture id="1682449228">
+        <Channel index="0" name="???" value="0"/>
+        <Channel index="1" name="???#2" value="0"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

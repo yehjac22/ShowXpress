@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1655638218" name="DesignSpot250" model="DesignSpot250"/>
+    <Fixture id="1655638219" name="DesignSpot250 #2" model="DesignSpot250"/>
+  </Fixtures>
+  <Steps>
+    <Step name="open" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="0"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="right_rotate" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="33"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="33"/>
+      </Fixture>
+    </Step>
+    <Step name="stop" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="65"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="65"/>
+      </Fixture>
+    </Step>
+    <Step name="left_rotate" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="98"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="98"/>
+      </Fixture>
+    </Step>
+    <Step name="macro1" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="132"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="132"/>
+      </Fixture>
+    </Step>
+    <Step name="macro2" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="140"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="140"/>
+      </Fixture>
+    </Step>
+    <Step name="macro3" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="148"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="148"/>
+      </Fixture>
+    </Step>
+    <Step name="macro4" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="156"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="156"/>
+      </Fixture>
+    </Step>
+    <Step name="macro5" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="164"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="164"/>
+      </Fixture>
+    </Step>
+    <Step name="macro6" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="172"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="172"/>
+      </Fixture>
+    </Step>
+    <Step name="macro7" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="180"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="180"/>
+      </Fixture>
+    </Step>
+    <Step name="macro8" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="188"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="188"/>
+      </Fixture>
+    </Step>
+    <Step name="macro9" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="196"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="196"/>
+      </Fixture>
+    </Step>
+    <Step name="macro10" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="204"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="204"/>
+      </Fixture>
+    </Step>
+    <Step name="macro11" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="212"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="212"/>
+      </Fixture>
+    </Step>
+    <Step name="macro12" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="220"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="220"/>
+      </Fixture>
+    </Step>
+    <Step name="macro13" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="228"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="228"/>
+      </Fixture>
+    </Step>
+    <Step name="macro14" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="236"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="236"/>
+      </Fixture>
+    </Step>
+    <Step name="macro15" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="244"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="244"/>
+      </Fixture>
+    </Step>
+    <Step name="macro16" length="500">
+      <Fixture id="1655638218">
+        <Channel index="8" name="prism" value="255"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="8" name="prism" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

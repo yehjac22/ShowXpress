@@ -1,0 +1,65 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 1
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1648825641
+Name = Snowbank(7ch) #2
+DMX = 672
+Channels = dimmer,red,green,blue,effect_macro,effect_speed,shutter
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[dimmer]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 10
+Shift = 0.0
+Point_0 = 0,0
+Point_1 = 1,65535
+Point_2 = 2,65535
+Point_3 = 22636,65535
+Point_4 = 31018,0
+Point_5 = 55304,65264
+Point_6 = 57021,65535
+Point_7 = 65535,0
+[RGB]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 30
+Shift = 0.0
+Point_0 = 24672,18504
+Point_1 = 49344,32639
+[effect_macro]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[effect_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[shutter]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

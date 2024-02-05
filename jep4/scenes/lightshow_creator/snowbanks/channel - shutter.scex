@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648825641" name="Snowbank(7ch) #2" model="Snowbank(7ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="open" length="500">
+      <Fixture id="1648825641">
+        <Channel index="6" name="shutter" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="strobe" length="500">
+      <Fixture id="1648825641">
+        <Channel index="6" name="shutter" value="132"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

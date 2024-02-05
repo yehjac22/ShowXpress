@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1681943361" name="PlatinumSpot15RPro(23ch) #2" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943362" name="PlatinumSpot15RPro(23ch) #3" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943363" name="PlatinumSpot15RPro(23ch) #4" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943012" name="PlatinumSpot15RPro(23ch)" model="PlatinumSpot15RPro(23ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="shake_gobo1" length="500">
+      <Fixture id="1681943361">
+        <Channel index="8" name="gobo" value="97"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="8" name="gobo" value="97"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="8" name="gobo" value="97"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="8" name="gobo" value="97"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

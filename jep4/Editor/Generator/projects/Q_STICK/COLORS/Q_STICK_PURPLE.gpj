@@ -1,0 +1,58 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 1
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1648825932
+Name = Truss_RgbPar(6ch)
+DMX = 512
+Channels = red,green,blue,white
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1648826048
+Name = Truss_RgbPar(6ch) #2
+DMX = 516
+Channels = red,green,blue,white
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1648826049
+Name = Truss_RgbPar(6ch) #3
+DMX = 520
+Channels = red,green,blue,white
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[RGB]
+Selected = 1
+CurveName = Default Curve
+Transition = 2
+Duration = 40
+Shift = 33.4
+Point_0 = 33130,11422
+[white]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

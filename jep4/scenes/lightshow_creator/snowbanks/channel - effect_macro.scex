@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648825641" name="Snowbank(7ch) #2" model="Snowbank(7ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="no_function" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_1" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="68"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_2" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="76"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_3" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="84"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_5" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="100"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_6" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="108"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_7" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="116"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_8" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="124"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_9" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="132"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_10" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="140"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_11" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="148"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_12" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="156"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_13" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="164"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_14" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="172"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_15" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="180"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_16" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="188"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_17" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="196"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_18" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="204"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_19" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="212"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_20" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="220"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_21" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="228"/>
+      </Fixture>
+    </Step>
+    <Step name="audio" length="500">
+      <Fixture id="1648825641">
+        <Channel index="4" name="effect_macro" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

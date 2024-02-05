@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648826048" name="Truss_RgbPar(6ch) #2" model="Truss_RgbPar(6ch)"/>
+    <Fixture id="1648826049" name="Truss_RgbPar(6ch) #3" model="Truss_RgbPar(6ch)"/>
+    <Fixture id="1648825932" name="Truss_RgbPar(6ch)" model="Truss_RgbPar(6ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="0" length="500">
+      <Fixture id="1648826048">
+        <Channel index="3" name="white" value="0"/>
+      </Fixture>
+      <Fixture id="1648826049">
+        <Channel index="3" name="white" value="0"/>
+      </Fixture>
+      <Fixture id="1648825932">
+        <Channel index="3" name="white" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="255" length="500">
+      <Fixture id="1648826048">
+        <Channel index="3" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1648826049">
+        <Channel index="3" name="white" value="255"/>
+      </Fixture>
+      <Fixture id="1648825932">
+        <Channel index="3" name="white" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648820430" name="HotboxExa(11ch)" model="HotboxExa(11ch)"/>
+    <Fixture id="1648825641" name="Snowbank(7ch) #2" model="Snowbank(7ch)"/>
+    <Fixture id="1648822945" name="HotboxExa(11ch) #2" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822946" name="HotboxExa(11ch) #3" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822947" name="HotboxExa(11ch) #4" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822948" name="HotboxExa(11ch) #5" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822949" name="HotboxExa(11ch) #6" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822950" name="HotboxExa(11ch) #7" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822951" name="HotboxExa(11ch) #8" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822952" name="HotboxExa(11ch) #9" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822953" name="HotboxExa(11ch) #10" model="HotboxExa(11ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="open" length="500">
+      <Fixture id="1648820430">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648825641">
+        <Channel index="6" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822945">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822946">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822947">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822948">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822949">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822950">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822951">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822952">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="7" name="shutter" value="0"/>
+      </Fixture>
+    </Step>
+    <Step name="strobe" length="500">
+      <Fixture id="1648820430">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648825641">
+        <Channel index="6" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822945">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822946">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822947">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822948">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822949">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822950">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822951">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822952">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="7" name="shutter" value="135"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

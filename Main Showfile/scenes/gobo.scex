@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1654796523" name="Sharpy(standard)" model="Sharpy(standard)"/>
+    <Fixture id="1654796524" name="Sharpy(standard) #2" model="Sharpy(standard)"/>
+    <Fixture id="1654796525" name="Sharpy(standard) #3" model="Sharpy(standard)"/>
+    <Fixture id="1654796526" name="Sharpy(standard) #4" model="Sharpy(standard)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="sun" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="46"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="46"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="46"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="46"/>
+      </Fixture>
+    </Step>
+    <Step name="palm tree" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="54"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="54"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="54"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="54"/>
+      </Fixture>
+    </Step>
+    <Step name="bunch of spots" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+    </Step>
+    <Step name="curvy triangle" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="57"/>
+      </Fixture>
+    </Step>
+    <Step name="hamantacsh" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="40"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="40"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="40"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="40"/>
+      </Fixture>
+    </Step>
+    <Step name="twinkle" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="36"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="36"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="36"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="36"/>
+      </Fixture>
+    </Step>
+    <Step name="small spray" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="32"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="32"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="32"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="32"/>
+      </Fixture>
+    </Step>
+    <Step name="stsr" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="28"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="28"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="28"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="28"/>
+      </Fixture>
+    </Step>
+    <Step name="small beam" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="4"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="4"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="4"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="4"/>
+      </Fixture>
+    </Step>
+    <Step name="open" length="500">
+      <Fixture id="1654796523">
+        <Channel index="3" name="gobo" value="0"/>
+      </Fixture>
+      <Fixture id="1654796524">
+        <Channel index="3" name="gobo" value="0"/>
+      </Fixture>
+      <Fixture id="1654796525">
+        <Channel index="3" name="gobo" value="0"/>
+      </Fixture>
+      <Fixture id="1654796526">
+        <Channel index="3" name="gobo" value="0"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

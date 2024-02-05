@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1655638218" name="DesignSpot250" model="DesignSpot250"/>
+    <Fixture id="1655638219" name="DesignSpot250 #2" model="DesignSpot250"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1655638218">
+        <Channel index="0" name="pan" value="80" fade="1"/>
+        <Channel index="1" name="upan" value="253" fade="1"/>
+        <Channel index="2" name="tilt" value="223" fade="1"/>
+        <Channel index="3" name="utilt" value="33" fade="1"/>
+        <Channel index="5" name="gobo" value="0"/>
+        <Channel index="6" name="gobo_rotate" value="0"/>
+        <Channel index="7" name="gobo2" value="32"/>
+        <Channel index="9" name="focus" value="150"/>
+      </Fixture>
+      <Fixture id="1655638219">
+        <Channel index="0" name="pan" value="168" fade="1"/>
+        <Channel index="1" name="upan" value="22" fade="1"/>
+        <Channel index="2" name="tilt" value="196" fade="1"/>
+        <Channel index="3" name="utilt" value="149" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,29 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LAMP700W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 100
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = dimmer
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = effect_macro
+ no_function,0,0 macro_1,68,68 macro_2,76,76 macro_3,84,84 macro_5,100,100 macro_6,108,108 macro_7,116,116 macro_8,124,124 macro_9,132,132 macro_10,140,140 macro_11,148,148 macro_12,156,156 macro_13,164,164 macro_14,172,172 macro_15,180,180 macro_16,188,188 macro_17,196,196 macro_18,204,204 macro_19,212,212 macro_20,220,220 macro_21,228,228 audio,255,255 
+
+Channel = effect_speed
+
+Channel = shutter
+ open,0,0 strobe,10,255 
+

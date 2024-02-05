@@ -1,0 +1,202 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 1
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1681943012
+Name = PlatinumSpot15RPro(23ch)
+DMX = 0
+Channels = pan,upan,tilt,utilt,color,cyan,magenta,yellow,gobo,gobo_rotate,gobo2,prism,prism_rotate,focus,zoom,shutter,dimmer,iris,frost,color_macro_speed,pantilt_speed,color_macro,control
+ReversePan = 1
+ReverseTilt = 1
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1681943361
+Name = PlatinumSpot15RPro(23ch) #2
+DMX = 23
+Channels = pan,upan,tilt,utilt,color,cyan,magenta,yellow,gobo,gobo_rotate,gobo2,prism,prism_rotate,focus,zoom,shutter,dimmer,iris,frost,color_macro_speed,pantilt_speed,color_macro,control
+ReversePan = 1
+ReverseTilt = 1
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1681943362
+Name = PlatinumSpot15RPro(23ch) #3
+DMX = 46
+Channels = pan,upan,tilt,utilt,color,cyan,magenta,yellow,gobo,gobo_rotate,gobo2,prism,prism_rotate,focus,zoom,shutter,dimmer,iris,frost,color_macro_speed,pantilt_speed,color_macro,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_3]
+ID = 1681943363
+Name = PlatinumSpot15RPro(23ch) #4
+DMX = 69
+Channels = pan,upan,tilt,utilt,color,cyan,magenta,yellow,gobo,gobo_rotate,gobo2,prism,prism_rotate,focus,zoom,shutter,dimmer,iris,frost,color_macro_speed,pantilt_speed,color_macro,control
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Pan/Tilt/uPan/uTilt]
+Selected = 1
+CurveName = Default Curve
+Transition = 2
+Duration = 100
+Shift = 0.0
+Point_0 = 42740,48548
+Point_1 = 49338,56459
+Point_2 = 43190,64869
+Point_3 = 40115,56709
+[color]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[CMY]
+Selected = 0
+CurveName = Default Curve
+Transition = 2
+Duration = 50
+Shift = 0.0
+Point_0 = 24997,47034
+Point_1 = 25448,18279
+Point_2 = 49545,31653
+[gobo]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[gobo_rotate]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[gobo2]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[prism]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[prism_rotate]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[focus]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[zoom]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[shutter]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,64286
+Point_1 = 65535,64286
+[dimmer]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[iris]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,41886
+Point_1 = 65535,41886
+[frost]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[pantilt_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[control]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

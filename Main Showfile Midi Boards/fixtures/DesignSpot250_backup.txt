@@ -1,0 +1,55 @@
+﻿ViewType = VIEW_TYPE_HEAD
+ViewPower = VIEW_POWER_LAMP575W
+ViewAnglePan = 540
+ViewAngleTilt = 265
+ViewAngleBeam = 17
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = TRUE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = pan
+
+Channel = upan
+
+Channel = tilt
+
+Channel = utilt
+
+Channel = color
+ white,0,0 red,22,22 blue,36,36 green,50,50 light_yellow,64,64 magenta,78,78 orange,92,92 uv,106,106 pink,120,120 right_rotate,128,187 stop,190,190 left_rotate,194,255 
+
+Channel = gobo
+ open,0,0 metal_basic/RR1B14,15,15 metal_complex/GM045,25,25 metal_complex/GM073,35,35 color/GD016,45,45 color/GD007,55,55 glass/005,65,65 metal_complex/GM006,75,75 gobo1_shake,90,90 gobo2_shake,110,110 gobo3_shake,130,130 gobo4_shake,150,150 gobo5_shake,170,170 gobo6_shake,190,190 gobo7_shake,210,210 rotate,220,255 
+
+Channel = gobo_rotate
+ index,0,127 right_rotate,128,187 stop,188,193 left_rotate,194,255 
+
+Channel = gobo2
+ open,0,0 metal_basic/sh14,22,22 metal_complex/GM072,36,36 metal_complex/GM003,50,50 metal_complex/RR2SR2,64,64 metal_complex/GM071,78,78 metal_complex/GM020,92,92 metal_complex/Q460R3,106,106 gobo1_shake,120,120 gobo2_shake,136,136 gobo3_shake,152,152 gobo4_shake,168,168 gobo5_shake,184,184 gobo6_shake,200,200 gobo7_shake,216,216 rotate,224,255 
+
+Channel = prism
+ open,0,0 right_rotate,4,63 stop,64,67 left_rotate,68,128 macro1,132,132 macro2,140,140 macro3,148,148 macro4,156,156 macro5,164,164 macro6,172,172 macro7,180,180 macro8,188,188 macro9,196,196 macro10,204,204 macro11,212,212 macro12,220,220 macro13,228,228 macro14,236,236 macro15,244,244 macro16,255,255 
+
+Channel = focus
+
+Channel = shutter
+ closed,0,0 open,32,63 strobe,64,95 pulse_open,128,159 random_strobe,192,223 open,255,255 
+
+Channel = dimmer
+
+Channel = iris
+ index,0,191 pulse_close,192,223 pulse_open,224,255 
+
+Channel = frost
+ index,0,191 pulse_open,192,223 pulse_close,224,255 
+
+Channel = pantilt_speed
+ index,0,225 blackout_moves,226,235 blackout_changes,236,245 
+
+Channel = control
+ color_normal,0,0 color_any_position,30,30 lamp_on,50,50 lamp_off,70,70 reset_motors,82,82 reset_xy,86,86 reset_color,89,89 reset_gobo,92,92 reset_shutter,95,95 prog1,110,110 prog2,130,130 prog3,150,150 prog4,170,170 prog5,190,190 prog6,210,210 prog7,230,230 auto_music,255,255 
+

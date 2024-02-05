@@ -1,0 +1,1872 @@
+﻿
+[master_faders]
+type_fader0 = 0
+caption_fader0 = [LC] - Master Dimmer
+v8_master_fader0 = 1655638219,dimmer|1654796525,dimmer|1654796524,dimmer|1654796523,dimmer|1655638218,dimmer|1654796526,dimmer|
+live_mobile_fader0 = 1
+type_fader1 = 1
+caption_fader1 = MOTION
+v8_master_fader1 = 
+live_mobile_fader1 = 1
+type_fader2 = 1
+caption_fader2 = SHUTTERS
+v8_master_fader2 = 
+live_mobile_fader2 = 1
+type_fader3 = 1
+caption_fader3 = 
+v8_master_fader3 = 
+live_mobile_fader3 = 1
+type_fader4 = 1
+caption_fader4 = [LC] - Master Speed
+v8_master_fader4 = 
+live_mobile_fader4 = 1
+[live]
+master_faders = 5
+manual_bpm = 500
+button_font_size = 14
+pause_midi_device = 0
+pause_midi_channel = 1
+pause_midi_type = 0
+pause_midi_note = 81
+pause_midi_control = 0
+pause_midiout_device = 0
+pause_midiout_channel = 1
+pause_midiout_type = 0
+pause_midiout_note = 81
+pause_midiout_data = -1
+pause_midiout_data_off = -1
+dmx_on = yes
+fade_time = 300
+allow_live_mobile = yes
+fader2_midiout_device = 1
+fader2_midiout_channel = 1
+fader2_midiout_type = 1
+fader2_midiout_note = 87
+fader2_midiout_data = -1
+fader2_midiout_data_off = -1
+fader1_midi_device = 1
+fader1_midi_channel = 1
+fader1_midi_type = 1
+fader1_midi_note = 88
+fader1_midi_control = 0
+fader1_midiout_device = 1
+fader1_midiout_channel = 1
+fader1_midiout_type = 1
+fader1_midiout_note = 88
+fader1_midiout_data = -1
+fader1_midiout_data_off = -1
+fader2_midi_device = 1
+fader2_midi_channel = 1
+fader2_midi_type = 1
+fader2_midi_note = 87
+fader2_midi_control = 0
+fader3_midi_device = 1
+fader3_midi_channel = 1
+fader3_midi_type = 1
+fader3_midi_note = 86
+fader3_midi_control = 0
+fader3_midiout_device = 1
+fader3_midiout_channel = 1
+fader3_midiout_type = 1
+fader3_midiout_note = 86
+fader3_midiout_data = -1
+fader3_midiout_data_off = -1
+beat_midi_device = 1
+beat_midi_channel = 10
+beat_midi_type = 0
+beat_midi_note = 54
+beat_midi_control = 0
+beat_midiout_device = 1
+beat_midiout_channel = 10
+beat_midiout_type = 0
+beat_midiout_note = 54
+beat_midiout_data = -1
+beat_midiout_data_off = -1
+drum_midi_device = 1
+drum_midi_channel = 10
+drum_midi_type = 0
+drum_midi_note = 51
+drum_midi_control = 0
+drum_midiout_device = 1
+drum_midiout_channel = 10
+drum_midiout_type = 0
+drum_midiout_note = 51
+drum_midiout_data = -1
+drum_midiout_data_off = -1
+no_button_overlay = yes
+live_mobile_password = 1234
+[Params]
+ActiveTab = 0
+[display]
+speed_info = yes
+[page]
+number = 15
+[page1]
+name = [LC] - artfoxes - channels
+live_mobile = yes
+nb_buttons = 12
+[page1_button1]
+line = 1
+column = 1
+name = lightshow_creator/artfoxes/channel - dimmer.scex
+title = dimmer - artfoxes
+masterspeedfader = 0
+never_in_macro = yes
+fader = yes
+preset_step = 255
+[page1_button2]
+line = 2
+column = 1
+name = lightshow_creator/artfoxes/channel - frost.scex
+title = frost - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 82
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 82
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 0
+[page1_button3]
+line = 3
+column = 1
+name = lightshow_creator/artfoxes/channel - focus.scex
+title = focus - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 7
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 7
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+never_in_macro = yes
+fader = yes
+preset_step = 250
+[page1_button4]
+line = 4
+column = 1
+name = lightshow_creator/artfoxes/channel - prism_rotate.scex
+title = prism_rotate - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 84
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 84
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 0
+[page1_button5]
+line = 1
+column = 2
+name = lightshow_creator/artfoxes/channel - lamp.scex
+title = lamp - artfoxes
+masterspeedfader = 0
+preset = yes
+preset_step = 2
+[page1_button6]
+line = 2
+column = 2
+name = lightshow_creator/artfoxes/channel - function.scex
+title = function - artfoxes
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page1_button7]
+line = 3
+column = 2
+name = lightshow_creator/artfoxes/channel - reset.scex
+title = reset - artfoxes
+masterspeedfader = 0
+preset = yes
+preset_step = 3
+[page1_button8]
+line = 4
+column = 2
+name = lightshow_creator/artfoxes/channel - prism.scex
+title = prism - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 81
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 81
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+preset = yes
+preset_step = 2
+[page1_button9]
+line = 1
+column = 3
+name = manual y.scex
+title = manual y
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 7
+trigger_midi_control = 3
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 7
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+never_in_macro = yes
+fader = yes
+preset_step = 161
+[page1_button10]
+line = 2
+column = 3
+name = manual x.scex
+title = manual x
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 6
+trigger_midi_control = 3
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 6
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+never_in_macro = yes
+fader = yes
+preset_step = 46
+[page1_button11]
+line = 3
+column = 3
+name = gobo.scex
+title = gobo
+masterspeedfader = 0
+preset = yes
+preset_step = 2
+[page1_button12]
+line = 4
+column = 3
+name = shutter/Haze Flash.scex
+title = Haze Flash
+masterspeedfader = 0
+trigger_keyboard = h
+flash = yes
+[page2]
+name = [LC] - artfoxes - colors
+swap = yes
+live_mobile = yes
+nb_buttons = 15
+[page2_button1]
+line = 1
+column = 1
+name = lightshow_creator/artfoxes/color - pink.scex
+title = pink - artfoxes
+color = 16744703
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 2
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button2]
+line = 2
+column = 1
+name = lightshow_creator/artfoxes/color - magenta.scex
+title = magenta - artfoxes
+color = 13120560
+masterspeedfader = 0
+[page2_button3]
+line = 1
+column = 2
+name = lightshow_creator/artfoxes/color - green.scex
+title = green - artfoxes
+color = 65280
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 2
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 2
+trigger_midiout_device = 0
+trigger_midiout_channel = 2
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button4]
+line = 2
+column = 2
+name = lightshow_creator/artfoxes/color - yellow.scex
+title = yellow - artfoxes
+color = 16119158
+masterspeedfader = 0
+[page2_button5]
+line = 3
+column = 2
+name = lightshow_creator/artfoxes/color - orange.scex
+title = orange - artfoxes
+color = 16744448
+masterspeedfader = 0
+[page2_button6]
+line = 1
+column = 3
+name = lightshow_creator/artfoxes/color - aquamarine.scex
+title = aquamarine - artfoxes
+color = 2287866
+masterspeedfader = 0
+[page2_button7]
+line = 2
+column = 3
+name = lightshow_creator/artfoxes/color - light_green.scex
+title = light_green - artfoxes
+color = 7929720
+masterspeedfader = 0
+[page2_button8]
+line = 3
+column = 3
+name = lightshow_creator/artfoxes/color - blue.scex
+title = sfardi
+color = 16742479
+masterspeedfader = 0
+[page2_button9]
+line = 1
+column = 4
+name = lightshow_creator/artfoxes/color - red.scex
+title = red - artfoxes
+color = 16711680
+masterspeedfader = 0
+[page2_button10]
+line = 2
+column = 4
+name = lightshow_creator/artfoxes/color - lavender.scex
+title = lavender - artfoxes
+color = 13145583
+masterspeedfader = 0
+[page2_button11]
+line = 3
+column = 4
+name = lightshow_creator/artfoxes/color - cyan.scex
+title = cyan - artfoxes
+color = 2046463
+masterspeedfader = 0
+[page2_button12]
+line = 1
+column = 5
+name = color rotate.scex
+title = color rotate
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 85
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 85
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 33
+vertical_slider = yes
+[page2_button13]
+line = 3
+column = 1
+name = purple:~blue.scex
+title = purple:~blue
+masterspeedfader = 0
+[page2_button14]
+line = 4
+column = 1
+name = red:blue~alternate.scex
+title = red:blue~alternate
+masterspeedfader = 0
+[page2_button15]
+line = 4
+column = 2
+name = Color Clash~Selection.scex
+title = Color Clash~Selection
+masterspeedfader = 0
+preset = yes
+preset_step = 1
+[page3]
+name = [LC] - artfoxes - gobos
+swap = yes
+nb_buttons = 36
+[page3_button1]
+line = 1
+column = 1
+name = lightshow_creator/artfoxes/gobo - shake_gobo10.scex
+title = shake_gobo10 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo10.png
+masterspeedfader = 0
+[page3_button2]
+line = 2
+column = 1
+name = lightshow_creator/artfoxes/gobo - gobo1.scex
+title = gobo1 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo1.png
+masterspeedfader = 0
+[page3_button3]
+line = 3
+column = 1
+name = lightshow_creator/artfoxes/gobo - gobo15.scex
+title = gobo15 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo15.png
+masterspeedfader = 0
+[page3_button4]
+line = 4
+column = 1
+name = lightshow_creator/artfoxes/gobo - gobo14.scex
+title = gobo14 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo14.png
+masterspeedfader = 0
+[page3_button5]
+line = 1
+column = 2
+name = lightshow_creator/artfoxes/gobo - shake_gobo11.scex
+title = shake_gobo11 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo11.png
+masterspeedfader = 0
+[page3_button6]
+line = 2
+column = 2
+name = lightshow_creator/artfoxes/gobo - right_rotate.scex
+title = right_rotate - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/right_rotate.png
+masterspeedfader = 0
+[page3_button7]
+line = 3
+column = 2
+name = lightshow_creator/artfoxes/gobo - gobo13.scex
+title = gobo13 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo13.png
+masterspeedfader = 0
+[page3_button8]
+line = 4
+column = 2
+name = lightshow_creator/artfoxes/gobo - stop.scex
+title = stop - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/stop.png
+masterspeedfader = 0
+[page3_button9]
+line = 1
+column = 3
+name = lightshow_creator/artfoxes/gobo - shake_gobo6.scex
+title = shake_gobo6 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo6.png
+masterspeedfader = 0
+[page3_button10]
+line = 2
+column = 3
+name = lightshow_creator/artfoxes/gobo - shake_gobo16.scex
+title = shake_gobo16 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo16.png
+masterspeedfader = 0
+[page3_button11]
+line = 3
+column = 3
+name = lightshow_creator/artfoxes/gobo - gobo7.scex
+title = gobo7 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo7.png
+masterspeedfader = 0
+[page3_button12]
+line = 4
+column = 3
+name = lightshow_creator/artfoxes/gobo - gobo6.scex
+title = gobo6 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo6.png
+masterspeedfader = 0
+[page3_button13]
+line = 1
+column = 4
+name = lightshow_creator/artfoxes/gobo - shake_gobo7.scex
+title = shake_gobo7 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo7.png
+masterspeedfader = 0
+[page3_button14]
+line = 2
+column = 4
+name = lightshow_creator/artfoxes/gobo - gobo12.scex
+title = gobo12 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo12.png
+masterspeedfader = 0
+[page3_button15]
+line = 3
+column = 4
+name = lightshow_creator/artfoxes/gobo - shake_gobo4.scex
+title = shake_gobo4 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo4.png
+masterspeedfader = 0
+[page3_button16]
+line = 4
+column = 4
+name = lightshow_creator/artfoxes/gobo - gobo9.scex
+title = gobo9 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo9.png
+masterspeedfader = 0
+[page3_button17]
+line = 1
+column = 5
+name = lightshow_creator/artfoxes/gobo - gobo11.scex
+title = gobo11 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo11.png
+masterspeedfader = 0
+[page3_button18]
+line = 2
+column = 5
+name = lightshow_creator/artfoxes/gobo - gobo5.scex
+title = gobo5 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo5.png
+masterspeedfader = 0
+[page3_button19]
+line = 3
+column = 5
+name = lightshow_creator/artfoxes/gobo - shake_gobo8.scex
+title = shake_gobo8 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo8.png
+masterspeedfader = 0
+[page3_button20]
+line = 4
+column = 5
+name = lightshow_creator/artfoxes/gobo - shake_gobo14.scex
+title = shake_gobo14 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo14.png
+masterspeedfader = 0
+[page3_button21]
+line = 1
+column = 6
+name = lightshow_creator/artfoxes/gobo - open.scex
+title = open - artfoxes
+imgpath = 3DView/gobos/open.png
+masterspeedfader = 0
+[page3_button22]
+line = 2
+column = 6
+name = lightshow_creator/artfoxes/gobo - shake_gobo15.scex
+title = shake_gobo15 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo15.png
+masterspeedfader = 0
+[page3_button23]
+line = 3
+column = 6
+name = lightshow_creator/artfoxes/gobo - gobo4.scex
+title = gobo4 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo4.png
+masterspeedfader = 0
+[page3_button24]
+line = 4
+column = 6
+name = lightshow_creator/artfoxes/gobo - shake_gobo9.scex
+title = shake_gobo9 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo9.png
+masterspeedfader = 0
+[page3_button25]
+line = 1
+column = 7
+name = lightshow_creator/artfoxes/gobo - left_rotate.scex
+title = left_rotate - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/left_rotate.png
+masterspeedfader = 0
+[page3_button26]
+line = 2
+column = 7
+name = lightshow_creator/artfoxes/gobo - gobo10.scex
+title = gobo10 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo10.png
+masterspeedfader = 0
+[page3_button27]
+line = 3
+column = 7
+name = lightshow_creator/artfoxes/gobo - shake_gobo5.scex
+title = shake_gobo5 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo5.png
+masterspeedfader = 0
+[page3_button28]
+line = 4
+column = 7
+name = lightshow_creator/artfoxes/gobo - gobo8.scex
+title = gobo8 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo8.png
+masterspeedfader = 0
+[page3_button29]
+line = 1
+column = 8
+name = lightshow_creator/artfoxes/gobo - gobo3.scex
+title = gobo3 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo3.png
+masterspeedfader = 0
+[page3_button30]
+line = 2
+column = 8
+name = lightshow_creator/artfoxes/gobo - shake_gobo12.scex
+title = shake_gobo12 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo12.png
+masterspeedfader = 0
+[page3_button31]
+line = 3
+column = 8
+name = lightshow_creator/artfoxes/gobo - shake_gobo2.scex
+title = shake_gobo2 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo2.png
+masterspeedfader = 0
+[page3_button32]
+line = 4
+column = 8
+name = lightshow_creator/artfoxes/gobo - gobo17.scex
+title = gobo17 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo17.png
+masterspeedfader = 0
+[page3_button33]
+line = 1
+column = 9
+name = lightshow_creator/artfoxes/gobo - gobo16.scex
+title = gobo16 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo16.png
+masterspeedfader = 0
+[page3_button34]
+line = 2
+column = 9
+name = lightshow_creator/artfoxes/gobo - shake_gobo3.scex
+title = shake_gobo3 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo3.png
+masterspeedfader = 0
+[page3_button35]
+line = 3
+column = 9
+name = lightshow_creator/artfoxes/gobo - shake_gobo13.scex
+title = shake_gobo13 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/shake_gobo13.png
+masterspeedfader = 0
+[page3_button36]
+line = 4
+column = 9
+name = lightshow_creator/artfoxes/gobo - gobo2.scex
+title = gobo2 - artfoxes
+imgpath = 3DView/gobos/Miscellaneous/gobo2.png
+masterspeedfader = 0
+[page4]
+name = [LC] - elations - channels
+nb_buttons = 10
+[page4_button1]
+line = 1
+column = 1
+name = lightshow_creator/elations/channel - dimmer.scex
+title = dimmer - elations
+masterspeedfader = 0
+fader = yes
+preset_step = 255
+[page4_button2]
+line = 2
+column = 1
+name = lightshow_creator/elations/channel - gobo_rotate.scex
+title = gobo_rotate - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page4_button3]
+line = 3
+column = 1
+name = lightshow_creator/elations/channel - frost.scex
+title = frost - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page4_button4]
+line = 4
+column = 1
+name = lightshow_creator/elations/channel - focus.scex
+title = focus - elations
+masterspeedfader = 0
+fader = yes
+preset_step = 0
+[page4_button5]
+line = 1
+column = 2
+name = lightshow_creator/elations/channel - iris.scex
+title = iris - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page4_button6]
+line = 2
+column = 2
+name = lightshow_creator/elations/channel - pantilt_speed.scex
+title = pantilt_speed - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page4_button7]
+line = 3
+column = 2
+name = lightshow_creator/elations/channel - control.scex
+title = control - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page4_button8]
+line = 4
+column = 2
+name = lightshow_creator/elations/channel - gobo2.scex
+title = gobo2 - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page4_button9]
+line = 1
+column = 3
+name = lightshow_creator/elations/channel - prism.scex
+title = prism - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page4_button10]
+line = 2
+column = 3
+name = lightshow_creator/elations/channel - shutter.scex
+title = shutter - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 5
+[page5]
+name = [LC] - elations - colors
+swap = yes
+nb_buttons = 12
+[page5_button1]
+line = 1
+column = 1
+name = lightshow_creator/elations/color - stop.scex
+title = stop - elations
+color = 0
+masterspeedfader = 0
+[page5_button2]
+line = 2
+column = 1
+name = lightshow_creator/elations/color - left_rotate.scex
+title = left_rotate - elations
+color = 0
+masterspeedfader = 0
+[page5_button3]
+line = 3
+column = 1
+name = lightshow_creator/elations/color - pink.scex
+title = pink - elations
+color = 16744703
+masterspeedfader = 0
+[page5_button4]
+line = 4
+column = 1
+name = lightshow_creator/elations/color - magenta.scex
+title = magenta - elations
+color = 13120560
+masterspeedfader = 0
+[page5_button5]
+line = 1
+column = 2
+name = lightshow_creator/elations/color - green.scex
+title = green - elations
+color = 65280
+masterspeedfader = 0
+[page5_button6]
+line = 2
+column = 2
+name = lightshow_creator/elations/color - light_yellow.scex
+title = light_yellow - elations
+color = 15466360
+masterspeedfader = 0
+[page5_button7]
+line = 3
+column = 2
+name = lightshow_creator/elations/color - orange.scex
+title = orange - elations
+color = 16744448
+masterspeedfader = 0
+[page5_button8]
+line = 4
+column = 2
+name = lightshow_creator/elations/color - blue.scex
+title = blue - elations
+color = 5263615
+masterspeedfader = 0
+[page5_button9]
+line = 1
+column = 3
+name = lightshow_creator/elations/color - red.scex
+title = red - elations
+color = 16711680
+masterspeedfader = 0
+[page5_button10]
+line = 2
+column = 3
+name = lightshow_creator/elations/color - white.scex
+title = white - elations
+color = 16777215
+masterspeedfader = 0
+[page5_button11]
+line = 3
+column = 3
+name = lightshow_creator/elations/color - right_rotate.scex
+title = right_rotate - elations
+color = 0
+masterspeedfader = 0
+[page5_button12]
+line = 4
+column = 3
+name = lightshow_creator/elations/color - uv.scex
+title = uv - elations
+color = 5767344
+masterspeedfader = 0
+[page6]
+name = [LC] - elations - gobos
+swap = yes
+nb_buttons = 17
+[page6_button1]
+line = 1
+column = 1
+name = lightshow_creator/elations/gobo - gobo1_shake.scex
+title = gobo1_shake - elations
+imgpath = 3DView/gobos/gobo1_shake.png
+masterspeedfader = 0
+[page6_button2]
+line = 2
+column = 1
+name = lightshow_creator/elations/gobo - GM006.scex
+title = GM006 - elations
+imgpath = 3DView/gobos/metal_complex/GM006.png
+masterspeedfader = 0
+[page6_button3]
+line = 3
+column = 1
+name = lightshow_creator/elations/gobo - GD007.scex
+title = GD007 - elations
+imgpath = 3DView/gobos/color/GD007.png
+masterspeedfader = 0
+[page6_button4]
+line = 4
+column = 1
+name = lightshow_creator/elations/gobo - gobo4_shake.scex
+title = gobo4_shake - elations
+imgpath = 3DView/gobos/gobo4_shake.png
+masterspeedfader = 0
+[page6_button5]
+line = 1
+column = 2
+name = lightshow_creator/elations/gobo - gobo3_shake.scex
+title = gobo3_shake - elations
+imgpath = 3DView/gobos/gobo3_shake.png
+masterspeedfader = 0
+[page6_button6]
+line = 2
+column = 2
+name = lightshow_creator/elations/gobo - rotate.scex
+title = rotate - elations
+imgpath = 3DView/gobos/rotate.png
+masterspeedfader = 0
+[page6_button7]
+line = 3
+column = 2
+name = lightshow_creator/elations/gobo - GD016.scex
+title = GD016 - elations
+imgpath = 3DView/gobos/color/GD016.png
+masterspeedfader = 0
+[page6_button8]
+line = 4
+column = 2
+name = lightshow_creator/elations/gobo - RR1B14.scex
+title = RR1B14 - elations
+imgpath = 3DView/gobos/metal_basic/RR1B14.png
+masterspeedfader = 0
+[page6_button9]
+line = 1
+column = 3
+name = lightshow_creator/elations/gobo - 005.scex
+title = 005 - elations
+imgpath = 3DView/gobos/glass/005.png
+masterspeedfader = 0
+[page6_button10]
+line = 2
+column = 3
+name = lightshow_creator/elations/gobo - gobo6_shake.scex
+title = gobo6_shake - elations
+imgpath = 3DView/gobos/gobo6_shake.png
+masterspeedfader = 0
+[page6_button11]
+line = 3
+column = 3
+name = lightshow_creator/elations/gobo - gobo5_shake.scex
+title = gobo5_shake - elations
+imgpath = 3DView/gobos/gobo5_shake.png
+masterspeedfader = 0
+[page6_button12]
+line = 4
+column = 3
+name = lightshow_creator/elations/gobo - open.scex
+title = open - elations
+imgpath = 3DView/gobos/open.png
+masterspeedfader = 0
+[page6_button13]
+line = 1
+column = 4
+name = lightshow_creator/elations/gobo - GM073.scex
+title = GM073 - elations
+imgpath = 3DView/gobos/metal_complex/GM073.png
+masterspeedfader = 0
+[page6_button14]
+line = 2
+column = 4
+name = lightshow_creator/elations/gobo - GM045.scex
+title = GM045 - elations
+imgpath = 3DView/gobos/metal_complex/GM045.png
+masterspeedfader = 0
+[page6_button15]
+line = 3
+column = 4
+name = lightshow_creator/elations/gobo - gobo7_shake.scex
+title = gobo7_shake - elations
+imgpath = 3DView/gobos/gobo7_shake.png
+masterspeedfader = 0
+[page6_button16]
+line = 4
+column = 4
+name = lightshow_creator/elations/gobo - gobo2_shake.scex
+title = gobo2_shake - elations
+imgpath = 3DView/gobos/gobo2_shake.png
+masterspeedfader = 0
+[page6_button17]
+line = 1
+column = 5
+name = elation point floor.scex
+title = elation point floor
+masterspeedfader = 0
+[page7]
+name = [LC] - elations - pantilt
+swap = yes
+nb_buttons = 17
+[page7_button1]
+line = 1
+column = 1
+name = lightshow_creator/elations/pantilt - square1_ccw.gpj
+title = square1_ccw - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 520
+[page7_button2]
+line = 2
+column = 1
+name = lightshow_creator/elations/pantilt - default.gpj
+title = default - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 1000
+[page7_button3]
+line = 3
+column = 1
+name = lightshow_creator/elations/pantilt - star_cw.gpj
+title = star_cw - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 626
+[page7_button4]
+line = 4
+column = 1
+name = lightshow_creator/elations/pantilt - eight_small.gpj
+title = eight_small - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 626
+[page7_button5]
+line = 1
+column = 2
+name = lightshow_creator/elations/pantilt - star_ccw.gpj
+title = star_ccw - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 540
+[page7_button6]
+line = 2
+column = 2
+name = lightshow_creator/elations/pantilt - eight.gpj
+title = eight - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 515
+[page7_button7]
+line = 3
+column = 2
+name = lightshow_creator/elations/pantilt - circle_cw.gpj
+title = circle_cw - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 500
+[page7_button8]
+line = 4
+column = 2
+name = lightshow_creator/elations/pantilt - crown.gpj
+title = crown - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 510
+[page7_button9]
+line = 1
+column = 3
+name = lightshow_creator/elations/pantilt - square2_cw.gpj
+title = square2_cw - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 520
+[page7_button10]
+line = 2
+column = 3
+name = lightshow_creator/elations/pantilt - square2_ccw.gpj
+title = square2_ccw - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 500
+[page7_button11]
+line = 3
+column = 3
+name = lightshow_creator/elations/pantilt - wave.gpj
+title = wave - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 1000
+[page7_button12]
+line = 4
+column = 3
+name = lightshow_creator/elations/pantilt - SEARCHLIGHT.gpj
+title = SEARCHLIGHT - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 1000
+[page7_button13]
+line = 1
+column = 4
+name = lightshow_creator/elations/pantilt - star_rev.gpj
+title = star_rev - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 626
+[page7_button14]
+line = 2
+column = 4
+name = lightshow_creator/elations/pantilt - star_small.gpj
+title = star_small - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 626
+[page7_button15]
+line = 3
+column = 4
+name = lightshow_creator/elations/pantilt - crown_vert.gpj
+title = crown_vert - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 510
+[page7_button16]
+line = 4
+column = 4
+name = lightshow_creator/elations/pantilt - square1_cw.gpj
+title = square1_cw - elations
+masterspeedfader = 0
+shift_slider = yes
+shift_channel = 0
+shift_values = 1001
+shift_value = 520
+[page7_button17]
+line = 5
+column = 4
+name = lightshow_creator/elations/pantilt.scex
+title = pantilt - elations
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page8]
+name = dual shutters
+swap = yes
+nb_buttons = 6
+[page8_button1]
+line = 2
+column = 2
+name = one pop .gpj
+title = one pop 
+speed = 400
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 56
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 56
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 10
+[page8_button2]
+line = 2
+column = 1
+name = shutter/TOP:BOTTOM 1.scex
+title = TOP:BOTTOM 1
+masterspeedfader = 0
+trigger_keyboard = m
+trigger_midi_device = 1
+trigger_midi_channel = 10
+trigger_midi_type = 0
+trigger_midi_note = 62
+trigger_midi_control = 0
+[page8_button3]
+line = 1
+column = 1
+name = shutter/TOP:BOTTOM 2.scex
+title = TOP:BOTTOM 2
+masterspeedfader = 0
+trigger_keyboard = n
+trigger_midi_device = 1
+trigger_midi_channel = 10
+trigger_midi_type = 0
+trigger_midi_note = 62
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 10
+trigger_midiout_type = 0
+trigger_midiout_note = 62
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page8_button4]
+line = 1
+column = 2
+name = THE PULSE.scex
+title = THE PULSE
+masterspeedfader = 0
+no_loop = yes
+[page8_button5]
+line = 1
+column = 3
+name = shutter/TOP:BOTTOM~FLASH.scex
+title = TOP:BOTTOM~FLASH
+speed = manual_bpm
+[page8_button6]
+line = 2
+column = 3
+name = shutter/CROSS FLASH.scex
+title = CROSS FLASH
+speed = 125
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 6
+vertical_slider = yes
+[page9]
+name = EMPTY
+nb_buttons = 0
+[page10]
+name = HIDDEN
+nb_buttons = 2
+[page10_button1]
+line = 1
+column = 1
+name = SEARCHLIGHTS 1.gpj
+title = SEARCHLIGHTS 1
+masterspeedfader = 0
+[page10_button2]
+line = 2
+column = 1
+name = SEARCHLIGHTS 2.gpj
+title = SEARCHLIGHTS 2
+masterspeedfader = 0
+[page11]
+name = Kintas
+swap = yes
+live_mobile = yes
+nb_buttons = 5
+[page11_button1]
+line = 1
+column = 1
+name = Kinta HP/Color/blue-gold.scex
+title = blue-gold
+masterspeedfader = 0
+[page11_button2]
+line = 2
+column = 1
+name = Kinta HP/Color/blue-pink.scex
+title = blue-pink
+masterspeedfader = 0
+[page11_button3]
+line = 3
+column = 1
+name = Kinta HP/Color/blue-red.scex
+title = blue-red
+masterspeedfader = 0
+[page11_button4]
+line = 4
+column = 1
+name = Kinta HP/Color/pink-white.scex
+title = pink-white
+masterspeedfader = 0
+[page11_button5]
+line = 5
+column = 1
+name = Kinta HP/Color/white-green.scex
+title = white-green
+masterspeedfader = 0
+[page12]
+name = MACROS
+live_mobile = yes
+nb_buttons = 7
+[page12_button1]
+line = 1
+column = 1
+name = WEDDING GOWN FULL.mac
+title = WEDDING GOWN FULL
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+macro = prism - artfoxes@2|prism_rotate - artfoxes@7|wedding ~ gown@2|
+[page12_button2]
+line = 3
+column = 1
+name = SEARCHLIGHTS.mac
+title = SEARCHLIGHTS
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+macro = SEARCHLIGHTS 1|SEARCHLIGHTS 2|
+[page12_button3]
+line = 4
+column = 1
+name = THE ONER.scex
+title = THE ONER #1
+masterspeedfader = 0
+[page12_button4]
+line = 1
+column = 2
+name = DROP 1.scex
+title = DROP 1
+no_loop = yes
+[page12_button5]
+line = 2
+column = 2
+name = elation point floor.scex
+title = elation point floor #2
+masterspeedfader = 0
+[page12_button6]
+line = 2
+column = 1
+name = pp.mac
+title = pp
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+macro = Figure eight@6|green - artfoxes|frost - artfoxes@255|
+[page12_button7]
+line = 3
+column = 2
+name = waver.gpj
+title = waver
+speed = 125
+masterspeedfader = 0
+[page13]
+name = Page_1
+live_mobile = yes
+nb_buttons = 18
+[page13_button1]
+line = 1
+column = 2
+name = purple 8.gpj
+title = Figure eight
+speed = 125
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 2
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 2
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 6
+[page13_button2]
+line = 1
+column = 1
+name = wedding ~ gown.scex
+title = wedding ~ gown
+speed = 50
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 2
+[page13_button3]
+line = 2
+column = 2
+name = loop offset.gpj
+title = loop offset
+speed = 50
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 2
+[page13_button4]
+line = 3
+column = 2
+name = at crowd.scex
+title = at crowd
+speed = 150
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 2
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 2
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 7
+[page13_button5]
+line = 4
+column = 2
+name = mirror circle.gpj
+title = mirror circle
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 3
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 3
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 5
+[page13_button6]
+line = 3
+column = 3
+name = THE ONER.scex
+title = THE ONER
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 3
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 3
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page13_button7]
+line = 2
+column = 1
+name = cross down.scex
+title = cross down
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 4
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page13_button8]
+line = 1
+column = 3
+name = FINAL PHOTO.scex
+title = FINAL PHOTO
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 4
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page13_button9]
+line = 2
+column = 3
+name = CROSS UP:DOWN.gpj
+title = CROSS UP:DOWN
+speed = 150
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 5
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 7
+[page13_button10]
+line = 3
+column = 1
+name = eating~eagle ridge.scex
+title = eating~eagle ridge
+masterspeedfader = 0
+[page13_button11]
+line = 4
+column = 3
+name = FAN.scex
+title = FAN
+masterspeedfader = 0
+random = yes
+preset = yes
+preset_step = 2
+vertical_slider = yes
+[page13_button12]
+line = 1
+column = 4
+name = top eating.scex
+title = top eating
+masterspeedfader = 0
+[page13_button13]
+line = 2
+column = 4
+name = Spotty Blue.gpj
+title = Spotty Blue
+masterspeedfader = 0
+[page13_button14]
+line = 3
+column = 4
+name = CUSTOM FAN.gpj
+title = CUSTOM FAN
+masterspeedfader = 0
+[page13_button15]
+line = 1
+column = 5
+name = Kinta HP/Effects/BackNForth.scex
+title = BackNForth
+[page13_button16]
+line = 2
+column = 5
+name = Kinta HP/Effects/Speed~Bi-direction.scex
+title = Speed~Bi-direction
+masterspeedfader = 0
+fader = yes
+preset_step = 227
+vertical_slider = yes
+[page13_button17]
+line = 3
+column = 5
+name = random loop.gpj
+title = random loop
+masterspeedfader = 0
+[page13_button18]
+line = 4
+column = 4
+name = Doubles_Cross.scex
+title = Doubles_Cross
+masterspeedfader = 0
+[page14]
+name = shutter 
+swap = yes
+live_mobile = yes
+nb_buttons = 16
+[page14_button1]
+line = 1
+column = 1
+name = STROBE SLOW.scex
+title = STROBE SLOW
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page14_button2]
+line = 2
+column = 1
+name = STROBE MED.scex
+title = STROBE MED
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 92
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 92
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+flash = yes
+[page14_button3]
+line = 3
+column = 1
+name = shutter/Pulse Once.scex
+title = Pulse Once
+speed = auto_bpm
+bpm_trigger = flash_mode
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 3
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 3
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page14_button4]
+line = 4
+column = 1
+name = shutter/PULSE BEAT.scex
+title = PULSE BEAT
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 4
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 133
+[page14_button5]
+line = 1
+column = 2
+name = shutter/PULSE FAST.scex
+title = PULSE FAST
+masterspeedfader = 0
+trigger_keyboard = f
+trigger_midi_device = 0
+trigger_midi_channel = 5
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+flash = yes
+[page14_button6]
+line = 2
+column = 2
+name = shutter/RAND STROBE SLOW.scex
+title = RAND STROBE SLOW
+masterspeedfader = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 79
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+flash = yes
+[page14_button7]
+line = 3
+column = 2
+name = shutter/STROBE FAST.scex
+title = STROBE FAST
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 7
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 7
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page14_button8]
+line = 4
+column = 2
+name = shutter/on.scex
+title = on
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 8
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 8
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page14_button9]
+line = 3
+column = 3
+name = one pop .gpj
+title = one pop  #1
+speed = 150
+masterspeedfader = 1
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 7
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 7
+vertical_slider = yes
+[page14_button10]
+line = 4
+column = 3
+name = shutter/TOP:NOTTOM.scex
+title = TOP/BOTTOM
+speed = 150
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 7
+[page14_button11]
+line = 1
+column = 3
+name = WIPE~ACROSS.scex
+title = WIPE~ACROSS
+speed = 35
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 1
+[page14_button12]
+line = 2
+column = 3
+name = STAGE LEFT~CHASE.scex
+title = STAGE LEFT~CHASE
+speed = 300
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 9
+[page14_button13]
+line = 1
+column = 4
+name = in-out.scex
+title = in-out
+speed = 150
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 7
+[page14_button14]
+line = 2
+column = 4
+name = out-in.scex
+title = out-in
+speed = 125
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 6
+[page14_button15]
+line = 3
+column = 4
+name = RANDOM STROBE.scex
+title = RANDOM STROBE
+masterspeedfader = 1
+trigger_keyboard = g
+random = yes
+speed_slider = yes
+preset_step = 5
+[page14_button16]
+line = 4
+column = 4
+name = left:right steps.scex
+title = left:right steps
+speed = 400
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 10
+[page15]
+name = utility
+nb_buttons = 3
+[page15_button1]
+line = 1
+column = 1
+name = home pos.scex
+title = home pos
+masterspeedfader = 0
+auto_start = yes
+resist_to_release_all = yes
+never_in_macro = yes
+[page15_button2]
+line = 2
+column = 1
+name = haze on.scex
+title = haze on #1
+masterspeedfader = 0
+auto_start = yes
+resist_to_release_all = yes
+never_in_macro = yes
+[page15_button3]
+line = 3
+column = 1
+name = shutter button.scex
+title = shutter button
+masterspeedfader = 0
+auto_start = yes
+resist_to_release_all = yes
+never_in_macro = yes
+fader = yes
+preset_step = 255
+[board]
+number = 16
+[board1]
+screen = 0
+page = 1
+[board2]
+screen = 0
+page = 2
+[board3]
+screen = 0
+page = 13
+[board4]
+screen = 0
+page = 12
+[board5]
+screen = 0
+page = 14
+[board6]
+screen = 0
+page = 11
+[board7]
+screen = 1
+page = 15
+[board8]
+screen = 2
+page = 9
+[board9]
+screen = 3
+page = 8
+[board10]
+screen = 3
+page = 2
+[board11]
+screen = 3
+page = 3
+[board12]
+screen = 3
+page = 15
+[board13]
+screen = 4
+page = 7
+[board14]
+screen = 4
+page = 5
+[board15]
+screen = 4
+page = 6
+[board16]
+screen = 4
+page = 4
+[screen0]
+window = no
+[screen1]
+title = SLIDERS
+window = no
+[screen2]
+title = SAFETY
+window = no
+[screen3]
+title = [LC] - artfoxes
+window = no
+[screen4]
+title = [LC] - elations
+window = no

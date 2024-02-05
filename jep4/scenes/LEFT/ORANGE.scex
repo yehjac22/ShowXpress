@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1648822952" name="HotboxExa(11ch) #9" model="HotboxExa(11ch)"/>
+    <Fixture id="1648822953" name="HotboxExa(11ch) #10" model="HotboxExa(11ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1648822952">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="128"/>
+      </Fixture>
+      <Fixture id="1648822953">
+        <Channel index="0" name="dimmer" value="255"/>
+        <Channel index="1" name="red" value="255"/>
+        <Channel index="2" name="green" value="128"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

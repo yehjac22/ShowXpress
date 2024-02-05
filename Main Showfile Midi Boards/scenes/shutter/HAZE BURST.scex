@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1654797154" name="fog" model="fog"/>
+  </Fixtures>
+  <Steps>
+    <Step length="18000">
+      <Fixture id="1654797154">
+        <Channel index="0" name="smoke_machine" value="255"/>
+        <Channel index="1" name="fan" value="143"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

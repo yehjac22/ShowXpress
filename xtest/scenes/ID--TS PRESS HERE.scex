@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1682349468" name="leko" model="leko"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1682349468">
+        <Channel index="0" name="???" value="0"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1682349468">
+        <Channel index="0" name="???" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

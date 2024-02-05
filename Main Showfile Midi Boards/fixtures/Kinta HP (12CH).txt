@@ -1,0 +1,49 @@
+ViewType = VIEW_TYPE_COLOR_PANEL
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = C:/Chauvet/DJ/KINTA HP.png
+
+Channel = Auto
+ auto,0,250 audio,251,255 
+
+Channel = speed_control
+ Speed/Sound sensitivity,0,255 
+
+Channel = red
+ dimmer,0,255 
+
+Channel = green
+ dimmer,0,255 
+
+Channel = blue
+ dimmer,0,255 
+
+Channel = white
+ dimmer,0,255 
+
+Channel = cyan
+ dimmer,0,255 
+
+Channel = magenta
+ dimmer,0,255 
+
+Channel = yellow
+ dimmer,0,255 
+
+Channel = amber
+ dimmer,0,255 
+
+Channel = strobe_effect
+ no_function,0,5 strobe,6,255 
+
+Channel = motor
+ speed_control,0,255 
+

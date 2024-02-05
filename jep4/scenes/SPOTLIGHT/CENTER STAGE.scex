@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1655822910" name="jep light" model="jep light"/>
+  </Fixtures>
+  <Steps>
+    <Step length="100">
+      <Fixture id="1655822910">
+        <Channel index="0" name="pan" value="182"/>
+        <Channel index="1" name="upan" value="56"/>
+        <Channel index="2" name="tilt" value="62"/>
+        <Channel index="3" name="utilt" value="192"/>
+        <Channel index="5" name="dimmer" value="0" fade="1"/>
+        <Channel index="13" name="frost" value="0"/>
+        <Channel index="14" name="focus" value="191"/>
+        <Channel index="15" name="zoom" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="234500">
+      <Fixture id="1655822910">
+        <Channel index="0" name="pan" value="182"/>
+        <Channel index="1" name="upan" value="56"/>
+        <Channel index="2" name="tilt" value="62"/>
+        <Channel index="3" name="utilt" value="192"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="13" name="frost" value="0"/>
+        <Channel index="14" name="focus" value="191"/>
+        <Channel index="15" name="zoom" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="234500">
+      <Fixture id="1655822910">
+        <Channel index="0" name="pan" value="182"/>
+        <Channel index="1" name="upan" value="56"/>
+        <Channel index="2" name="tilt" value="62"/>
+        <Channel index="3" name="utilt" value="192"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="13" name="frost" value="0"/>
+        <Channel index="14" name="focus" value="191"/>
+        <Channel index="15" name="zoom" value="255"/>
+      </Fixture>
+    </Step>
+    <Step length="234500">
+      <Fixture id="1655822910">
+        <Channel index="0" name="pan" value="182"/>
+        <Channel index="1" name="upan" value="56"/>
+        <Channel index="2" name="tilt" value="62"/>
+        <Channel index="3" name="utilt" value="192"/>
+        <Channel index="5" name="dimmer" value="255"/>
+        <Channel index="13" name="frost" value="0"/>
+        <Channel index="14" name="focus" value="191"/>
+        <Channel index="15" name="zoom" value="255"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

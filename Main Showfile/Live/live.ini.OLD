@@ -1,0 +1,1196 @@
+﻿
+[master_faders]
+type_fader0 = 0
+caption_fader0 = [LC] - Master Dimmer
+v8_master_fader0 = 1655638219,dimmer|1654796525,dimmer|1654796524,dimmer|1654796523,dimmer|1655638218,dimmer|1654796526,dimmer|
+live_mobile_fader0 = 1
+type_fader1 = 1
+caption_fader1 = MOTION
+v8_master_fader1 = 
+live_mobile_fader1 = 1
+type_fader2 = 1
+caption_fader2 = SHUTTERS
+v8_master_fader2 = 
+live_mobile_fader2 = 1
+type_fader3 = 1
+caption_fader3 = 
+v8_master_fader3 = 
+live_mobile_fader3 = 1
+type_fader4 = 1
+caption_fader4 = [LC] - Master Speed
+v8_master_fader4 = 
+live_mobile_fader4 = 1
+[live]
+master_faders = 5
+manual_bpm = 10
+button_font_size = 14
+pause_midi_device = 0
+pause_midi_channel = 1
+pause_midi_type = 0
+pause_midi_note = 81
+pause_midi_control = 0
+pause_midiout_device = 0
+pause_midiout_channel = 1
+pause_midiout_type = 0
+pause_midiout_note = 81
+pause_midiout_data = -1
+pause_midiout_data_off = -1
+dmx_on = yes
+fade_time = 300
+allow_live_mobile = yes
+fader2_midiout_device = 1
+fader2_midiout_channel = 1
+fader2_midiout_type = 1
+fader2_midiout_note = 87
+fader2_midiout_data = -1
+fader2_midiout_data_off = -1
+fader1_midi_device = 1
+fader1_midi_channel = 1
+fader1_midi_type = 1
+fader1_midi_note = 88
+fader1_midi_control = 0
+fader1_midiout_device = 1
+fader1_midiout_channel = 1
+fader1_midiout_type = 1
+fader1_midiout_note = 88
+fader1_midiout_data = -1
+fader1_midiout_data_off = -1
+fader2_midi_device = 1
+fader2_midi_channel = 1
+fader2_midi_type = 1
+fader2_midi_note = 87
+fader2_midi_control = 0
+fader3_midi_device = 1
+fader3_midi_channel = 1
+fader3_midi_type = 1
+fader3_midi_note = 86
+fader3_midi_control = 0
+fader3_midiout_device = 1
+fader3_midiout_channel = 1
+fader3_midiout_type = 1
+fader3_midiout_note = 86
+fader3_midiout_data = -1
+fader3_midiout_data_off = -1
+beat_midi_device = 1
+beat_midi_channel = 10
+beat_midi_type = 0
+beat_midi_note = 54
+beat_midi_control = 0
+beat_midiout_device = 1
+beat_midiout_channel = 10
+beat_midiout_type = 0
+beat_midiout_note = 54
+beat_midiout_data = -1
+beat_midiout_data_off = -1
+drum_midi_device = 1
+drum_midi_channel = 10
+drum_midi_type = 0
+drum_midi_note = 51
+drum_midi_control = 0
+drum_midiout_device = 1
+drum_midiout_channel = 10
+drum_midiout_type = 0
+drum_midiout_note = 51
+drum_midiout_data = -1
+drum_midiout_data_off = -1
+no_button_overlay = yes
+live_mobile_password = 1234
+[Params]
+ActiveTab = 0
+[display]
+speed_info = yes
+[page]
+number = 10
+[page1]
+name = [LC] - artfoxes - channels
+live_mobile = yes
+nb_buttons = 12
+[page1_button1]
+line = 1
+column = 1
+name = lightshow_creator/artfoxes/channel - dimmer.scex
+title = dimmer - artfoxes
+masterspeedfader = 0
+never_in_macro = yes
+fader = yes
+preset_step = 255
+[page1_button2]
+line = 2
+column = 1
+name = lightshow_creator/artfoxes/channel - frost.scex
+title = frost - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 82
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 82
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 255
+[page1_button3]
+line = 3
+column = 1
+name = lightshow_creator/artfoxes/channel - focus.scex
+title = focus - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 7
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 7
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+never_in_macro = yes
+fader = yes
+preset_step = 12
+[page1_button4]
+line = 4
+column = 1
+name = lightshow_creator/artfoxes/channel - prism_rotate.scex
+title = prism_rotate - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 84
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 84
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 7
+[page1_button5]
+line = 1
+column = 2
+name = lightshow_creator/artfoxes/channel - lamp.scex
+title = lamp - artfoxes
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page1_button6]
+line = 2
+column = 2
+name = lightshow_creator/artfoxes/channel - function.scex
+title = function - artfoxes
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page1_button7]
+line = 3
+column = 2
+name = lightshow_creator/artfoxes/channel - reset.scex
+title = reset - artfoxes
+masterspeedfader = 0
+preset = yes
+preset_step = 3
+[page1_button8]
+line = 4
+column = 2
+name = lightshow_creator/artfoxes/channel - prism.scex
+title = prism - artfoxes
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 81
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 81
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+preset = yes
+preset_step = 2
+[page1_button9]
+line = 1
+column = 3
+name = manual y.scex
+title = manual y
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 7
+trigger_midi_control = 3
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 7
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+never_in_macro = yes
+fader = yes
+preset_step = 175
+[page1_button10]
+line = 2
+column = 3
+name = manual x.scex
+title = manual x
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 6
+trigger_midi_control = 3
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 6
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+never_in_macro = yes
+fader = yes
+preset_step = 46
+[page1_button11]
+line = 3
+column = 3
+name = gobo.scex
+title = gobo
+masterspeedfader = 0
+preset = yes
+preset_step = 2
+[page1_button12]
+line = 4
+column = 3
+name = shutter/Haze Flash.scex
+title = Haze Flash
+masterspeedfader = 0
+trigger_keyboard = h
+flash = yes
+[page2]
+name = [LC] - artfoxes - colors
+swap = yes
+live_mobile = yes
+nb_buttons = 15
+[page2_button1]
+line = 3
+column = 3
+name = lightshow_creator/artfoxes/color - pink.scex
+title = pink - artfoxes
+color = 16744703
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 2
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button2]
+line = 1
+column = 2
+name = lightshow_creator/artfoxes/color - magenta.scex
+title = magenta - artfoxes
+color = 13120560
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 2
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 2
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button3]
+line = 1
+column = 5
+name = lightshow_creator/artfoxes/color - green.scex
+title = green - artfoxes
+color = 65280
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 2
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 2
+trigger_midiout_device = 0
+trigger_midiout_channel = 2
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button4]
+line = 2
+column = 2
+name = lightshow_creator/artfoxes/color - yellow.scex
+title = yellow - artfoxes
+color = 16119158
+masterspeedfader = 0
+[page2_button5]
+line = 1
+column = 3
+name = lightshow_creator/artfoxes/color - orange.scex
+title = orange - artfoxes
+color = 16744448
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 3
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 3
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button6]
+line = 3
+column = 2
+name = lightshow_creator/artfoxes/color - aquamarine.scex
+title = aquamarine - artfoxes
+color = 2287866
+masterspeedfader = 0
+[page2_button7]
+line = 1
+column = 4
+name = lightshow_creator/artfoxes/color - light_green.scex
+title = light_green - artfoxes
+color = 7929720
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 4
+trigger_midi_type = 1
+trigger_midi_note = 16
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 1
+trigger_midiout_note = 16
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button8]
+line = 2
+column = 3
+name = lightshow_creator/artfoxes/color - blue.scex
+title = sfardi
+color = 16742479
+masterspeedfader = 0
+[page2_button9]
+line = 1
+column = 1
+name = lightshow_creator/artfoxes/color - red.scex
+title = red - artfoxes
+color = 16711680
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 1
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page2_button10]
+line = 2
+column = 4
+name = lightshow_creator/artfoxes/color - lavender.scex
+title = lavender - artfoxes
+color = 13145583
+masterspeedfader = 0
+[page2_button11]
+line = 3
+column = 4
+name = lightshow_creator/artfoxes/color - cyan.scex
+title = cyan - artfoxes
+color = 2046463
+masterspeedfader = 0
+[page2_button12]
+line = 2
+column = 5
+name = color rotate.scex
+title = color rotate
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 85
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 85
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 6
+vertical_slider = yes
+[page2_button13]
+line = 2
+column = 1
+name = purple:~blue.scex
+title = purple:~blue
+masterspeedfader = 0
+[page2_button14]
+line = 3
+column = 1
+name = red:blue~alternate.scex
+title = red:blue~alternate
+masterspeedfader = 0
+[page2_button15]
+line = 3
+column = 5
+name = Color Clash~Selection.scex
+title = Color Clash~Selection
+masterspeedfader = 0
+preset = yes
+preset_step = 1
+[page3]
+name = dual shutters
+swap = yes
+nb_buttons = 6
+[page3_button1]
+line = 2
+column = 2
+name = one pop .gpj
+title = one pop 
+speed = 400
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 56
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 56
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 10
+[page3_button2]
+line = 2
+column = 1
+name = shutter/TOP:BOTTOM 1.scex
+title = TOP:BOTTOM 1
+masterspeedfader = 0
+trigger_keyboard = m
+trigger_midi_device = 1
+trigger_midi_channel = 10
+trigger_midi_type = 0
+trigger_midi_note = 62
+trigger_midi_control = 0
+[page3_button3]
+line = 1
+column = 1
+name = shutter/TOP:BOTTOM 2.scex
+title = TOP:BOTTOM 2
+masterspeedfader = 0
+trigger_keyboard = n
+trigger_midi_device = 1
+trigger_midi_channel = 10
+trigger_midi_type = 0
+trigger_midi_note = 62
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 10
+trigger_midiout_type = 0
+trigger_midiout_note = 62
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page3_button4]
+line = 1
+column = 2
+name = THE PULSE.scex
+title = THE PULSE
+masterspeedfader = 0
+no_loop = yes
+[page3_button5]
+line = 1
+column = 3
+name = shutter/TOP:BOTTOM~FLASH.scex
+title = TOP:BOTTOM~FLASH
+speed = manual_bpm
+[page3_button6]
+line = 2
+column = 3
+name = shutter/CROSS FLASH.scex
+title = CROSS FLASH
+speed = 125
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 6
+vertical_slider = yes
+[page4]
+name = EMPTY
+nb_buttons = 0
+[page5]
+name = HIDDEN
+nb_buttons = 2
+[page5_button1]
+line = 1
+column = 1
+name = SEARCHLIGHTS 1.gpj
+title = SEARCHLIGHTS 1
+masterspeedfader = 0
+[page5_button2]
+line = 2
+column = 1
+name = SEARCHLIGHTS 2.gpj
+title = SEARCHLIGHTS 2
+masterspeedfader = 0
+[page6]
+name = Kintas
+swap = yes
+live_mobile = yes
+nb_buttons = 5
+[page6_button1]
+line = 1
+column = 1
+name = Kinta HP/Color/blue-gold.scex
+title = blue-gold
+masterspeedfader = 0
+[page6_button2]
+line = 2
+column = 1
+name = Kinta HP/Color/blue-pink.scex
+title = blue-pink
+masterspeedfader = 0
+[page6_button3]
+line = 3
+column = 1
+name = Kinta HP/Color/blue-red.scex
+title = blue-red
+masterspeedfader = 0
+[page6_button4]
+line = 4
+column = 1
+name = Kinta HP/Color/pink-white.scex
+title = pink-white
+masterspeedfader = 0
+[page6_button5]
+line = 5
+column = 1
+name = Kinta HP/Color/white-green.scex
+title = white-green
+masterspeedfader = 0
+[page7]
+name = MACROS
+live_mobile = yes
+nb_buttons = 7
+[page7_button1]
+line = 1
+column = 1
+name = WEDDING GOWN FULL.mac
+title = WEDDING GOWN FULL
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+macro = prism - artfoxes@2|prism_rotate - artfoxes@7|wedding ~ gown@2|
+[page7_button2]
+line = 3
+column = 1
+name = SEARCHLIGHTS.mac
+title = SEARCHLIGHTS
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+macro = SEARCHLIGHTS 1|SEARCHLIGHTS 2|
+[page7_button3]
+line = 4
+column = 1
+name = THE ONER.scex
+title = THE ONER #1
+masterspeedfader = 0
+[page7_button4]
+line = 1
+column = 2
+name = DROP 1.scex
+title = DROP 1
+no_loop = yes
+[page7_button5]
+line = 2
+column = 2
+name = elation point floor.scex
+title = elation point floor #2
+masterspeedfader = 0
+[page7_button6]
+line = 2
+column = 1
+name = pp.mac
+title = pp
+speed = auto_bpm
+beats = 0.000000
+masterspeedfader = 0
+macro = Figure eight@6|green - artfoxes|frost - artfoxes@255|
+[page7_button7]
+line = 3
+column = 2
+name = waver.gpj
+title = waver
+speed = 125
+masterspeedfader = 0
+[page8]
+name = Page_1
+live_mobile = yes
+nb_buttons = 18
+[page8_button1]
+line = 1
+column = 2
+name = purple 8.gpj
+title = Figure eight
+speed = 125
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 2
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 2
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 6
+[page8_button2]
+line = 1
+column = 1
+name = wedding ~ gown.scex
+title = wedding ~ gown
+speed = 50
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 2
+[page8_button3]
+line = 2
+column = 2
+name = loop offset.gpj
+title = loop offset
+speed = 35
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 1
+[page8_button4]
+line = 3
+column = 2
+name = at crowd.scex
+title = at crowd
+speed = 25
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 2
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 2
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 0
+[page8_button5]
+line = 4
+column = 2
+name = mirror circle.gpj
+title = mirror circle
+speed = 35
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 3
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 3
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 1
+[page8_button6]
+line = 3
+column = 3
+name = THE ONER.scex
+title = THE ONER
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 3
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 3
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page8_button7]
+line = 2
+column = 1
+name = cross down.scex
+title = cross down
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 4
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page8_button8]
+line = 1
+column = 3
+name = FINAL PHOTO.scex
+title = FINAL PHOTO
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 4
+trigger_midi_type = 0
+trigger_midi_note = 54
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 54
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page8_button9]
+line = 2
+column = 3
+name = CROSS UP:DOWN.gpj
+title = CROSS UP:DOWN
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 5
+trigger_midi_type = 0
+trigger_midi_note = 53
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 53
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 5
+[page8_button10]
+line = 3
+column = 1
+name = eating~eagle ridge.scex
+title = eating~eagle ridge
+masterspeedfader = 0
+[page8_button11]
+line = 2
+column = 5
+name = FAN.scex
+title = FAN
+masterspeedfader = 0
+random = yes
+preset = yes
+preset_step = 4
+vertical_slider = yes
+[page8_button12]
+line = 1
+column = 4
+name = top eating.scex
+title = top eating
+masterspeedfader = 0
+[page8_button13]
+line = 2
+column = 4
+name = Spotty Blue.gpj
+title = Spotty Blue
+masterspeedfader = 0
+[page8_button14]
+line = 3
+column = 4
+name = CUSTOM FAN.gpj
+title = CUSTOM FAN
+masterspeedfader = 0
+[page8_button15]
+line = 4
+column = 3
+name = Kinta HP/Effects/BackNForth.scex
+title = BackNForth
+[page8_button16]
+line = 1
+column = 5
+name = Kinta HP/Effects/Speed~Bi-direction.scex
+title = Speed~Bi-direction
+masterspeedfader = 0
+fader = yes
+preset_step = 45
+vertical_slider = yes
+[page8_button17]
+line = 4
+column = 1
+name = random loop.gpj
+title = random loop
+masterspeedfader = 0
+[page8_button18]
+line = 4
+column = 4
+name = Doubles_Cross.scex
+title = Doubles_Cross
+masterspeedfader = 0
+[page9]
+name = shutter 
+swap = yes
+live_mobile = yes
+nb_buttons = 16
+[page9_button1]
+line = 1
+column = 1
+name = STROBE SLOW.scex
+title = STROBE SLOW
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 1
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page9_button2]
+line = 2
+column = 1
+name = STROBE MED.scex
+title = STROBE MED
+masterspeedfader = 0
+trigger_midi_device = 1
+trigger_midi_channel = 1
+trigger_midi_type = 1
+trigger_midi_note = 92
+trigger_midi_control = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 92
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+flash = yes
+[page9_button3]
+line = 3
+column = 1
+name = shutter/Pulse Once.scex
+title = Pulse Once
+speed = auto_bpm
+bpm_trigger = flash_mode
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 3
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 3
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page9_button4]
+line = 4
+column = 1
+name = shutter/PULSE BEAT.scex
+title = PULSE BEAT
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 4
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+fader = yes
+preset_step = 53
+[page9_button5]
+line = 1
+column = 2
+name = shutter/PULSE FAST.scex
+title = PULSE FAST
+masterspeedfader = 0
+trigger_keyboard = f
+trigger_midi_device = 0
+trigger_midi_channel = 5
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+flash = yes
+[page9_button6]
+line = 2
+column = 2
+name = shutter/RAND STROBE SLOW.scex
+title = RAND STROBE SLOW
+masterspeedfader = 0
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 79
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+flash = yes
+[page9_button7]
+line = 3
+column = 2
+name = shutter/STROBE FAST.scex
+title = STROBE FAST
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 7
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 7
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page9_button8]
+line = 4
+column = 2
+name = shutter/on.scex
+title = on
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 8
+trigger_midi_type = 0
+trigger_midi_note = 52
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 8
+trigger_midiout_type = 0
+trigger_midiout_note = 52
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+[page9_button9]
+line = 3
+column = 3
+name = one pop .gpj
+title = one pop  #1
+speed = 400
+masterspeedfader = 1
+trigger_midiout_device = 1
+trigger_midiout_channel = 1
+trigger_midiout_type = 1
+trigger_midiout_note = 7
+trigger_midiout_data = -1
+trigger_midiout_data_off = -1
+speed_slider = yes
+preset_step = 10
+vertical_slider = yes
+[page9_button10]
+line = 4
+column = 3
+name = shutter/TOP:NOTTOM.scex
+title = TOP/BOTTOM
+speed = 50
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 2
+[page9_button11]
+line = 1
+column = 3
+name = WIPE~ACROSS.scex
+title = WIPE~ACROSS
+speed = 35
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 1
+[page9_button12]
+line = 2
+column = 3
+name = STAGE LEFT~CHASE.scex
+title = STAGE LEFT~CHASE
+speed = 300
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 9
+[page9_button13]
+line = 1
+column = 4
+name = in-out.scex
+title = in-out
+speed = 150
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 7
+[page9_button14]
+line = 2
+column = 4
+name = out-in.scex
+title = out-in
+speed = 125
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 6
+[page9_button15]
+line = 3
+column = 4
+name = RANDOM STROBE.scex
+title = RANDOM STROBE
+speed = 400
+masterspeedfader = 1
+trigger_keyboard = g
+random = yes
+speed_slider = yes
+preset_step = 10
+[page9_button16]
+line = 4
+column = 4
+name = left:right steps.scex
+title = left:right steps
+speed = 90
+masterspeedfader = 1
+speed_slider = yes
+preset_step = 4
+[page10]
+name = utility
+nb_buttons = 3
+[page10_button1]
+line = 1
+column = 1
+name = home pos.scex
+title = home pos
+masterspeedfader = 0
+auto_start = yes
+resist_to_release_all = yes
+never_in_macro = yes
+[page10_button2]
+line = 2
+column = 1
+name = haze on.scex
+title = haze on #1
+masterspeedfader = 0
+auto_start = yes
+resist_to_release_all = yes
+never_in_macro = yes
+[page10_button3]
+line = 3
+column = 1
+name = shutter button.scex
+title = shutter button
+masterspeedfader = 0
+auto_start = yes
+resist_to_release_all = yes
+never_in_macro = yes
+fader = yes
+preset_step = 255
+[board]
+number = 16
+[board1]
+screen = 0
+page = 1
+[board2]
+screen = 0
+page = 2
+[board3]
+screen = 0
+page = 8
+[board4]
+screen = 0
+page = 7
+[board5]
+screen = 0
+page = 9
+[board6]
+screen = 0
+page = 6
+[board7]
+screen = 1
+page = 10
+[board8]
+screen = 2
+page = 4
+[board9]
+screen = 3
+page = 3
+[board10]
+screen = 3
+page = 2
+[board11]
+screen = 3
+page = 1
+[board12]
+screen = 3
+page = 10
+[board13]
+screen = 4
+page = 1
+[board14]
+screen = 4
+page = 1
+[board15]
+screen = 4
+page = 1
+[board16]
+screen = 4
+page = 1
+[screen0]
+window = no
+[screen1]
+title = SLIDERS
+window = no
+[screen2]
+title = SAFETY
+window = no
+[screen3]
+title = [LC] - artfoxes
+window = no
+[screen4]
+title = [LC] - elations
+window = no

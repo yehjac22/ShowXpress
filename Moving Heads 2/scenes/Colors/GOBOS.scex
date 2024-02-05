@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1681943361" name="PlatinumSpot15RPro(23ch) #2" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943362" name="PlatinumSpot15RPro(23ch) #3" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943363" name="PlatinumSpot15RPro(23ch) #4" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943012" name="PlatinumSpot15RPro(23ch)" model="PlatinumSpot15RPro(23ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="10"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="10"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="10"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="10"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="19"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="19"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="19"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="19"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="27"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="27"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="27"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="27"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="35"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="35"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="35"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="35"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="43"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="43"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="43"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="43"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="51"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="51"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="51"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="51"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="59"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="59"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="59"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="59"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="67"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="67"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="67"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="67"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="75"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="75"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="75"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="75"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="83"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="83"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="83"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="83"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="91"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="91"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="91"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="91"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="99"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="99"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="99"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="99"/>
+      </Fixture>
+    </Step>
+    <Step length="500">
+      <Fixture id="1681943361">
+        <Channel index="10" name="gobo2" value="107"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="10" name="gobo2" value="107"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="10" name="gobo2" value="107"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="10" name="gobo2" value="107"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1655822910" name="jep light" model="jep light"/>
+  </Fixtures>
+  <Steps>
+    <Step length="5">
+      <Fixture id="1655822910">
+        <Channel index="0" name="pan" value="179"/>
+        <Channel index="1" name="upan" value="67"/>
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="76"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="7" name="color" value="221"/>
+        <Channel index="8" name="gobo" value="0"/>
+        <Channel index="9" name="gobo 2" value="49"/>
+        <Channel index="10" name="gobo_rotate" value="128"/>
+        <Channel index="11" name="prism" value="255"/>
+        <Channel index="12" name="prism_rotate" value="49"/>
+        <Channel index="13" name="frost" value="10"/>
+        <Channel index="14" name="focus" value="205"/>
+        <Channel index="15" name="zoom" value="233"/>
+      </Fixture>
+    </Step>
+    <Step length="594000">
+      <Fixture id="1655822910">
+        <Channel index="0" name="pan" value="179"/>
+        <Channel index="1" name="upan" value="67"/>
+        <Channel index="2" name="tilt" value="50"/>
+        <Channel index="3" name="utilt" value="76"/>
+        <Channel index="5" name="dimmer" value="255" fade="1"/>
+        <Channel index="7" name="color" value="221"/>
+        <Channel index="8" name="gobo" value="0"/>
+        <Channel index="9" name="gobo 2" value="49"/>
+        <Channel index="10" name="gobo_rotate" value="128"/>
+        <Channel index="11" name="prism" value="255"/>
+        <Channel index="12" name="prism_rotate" value="49"/>
+        <Channel index="13" name="frost" value="10"/>
+        <Channel index="14" name="focus" value="205"/>
+        <Channel index="15" name="zoom" value="233"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

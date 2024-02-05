@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1681943361" name="PlatinumSpot15RPro(23ch) #2" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943362" name="PlatinumSpot15RPro(23ch) #3" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943363" name="PlatinumSpot15RPro(23ch) #4" model="PlatinumSpot15RPro(23ch)"/>
+    <Fixture id="1681943012" name="PlatinumSpot15RPro(23ch)" model="PlatinumSpot15RPro(23ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step name="macro_1" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="11"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="11"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="11"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="11"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_2" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="19"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="19"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="19"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="19"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_3" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="27"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="27"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="27"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="27"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_4" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="35"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="35"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="35"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="35"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_5" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="43"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="43"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="43"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="43"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_6" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="51"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="51"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="51"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="51"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_7" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="59"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="59"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="59"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="59"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_8" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="67"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="67"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="67"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="67"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_9" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="75"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="75"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="75"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="75"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_10" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="83"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="83"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="83"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="83"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_11" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="91"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="91"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="91"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="91"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_12" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="99"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="99"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="99"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="99"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_13" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="107"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="107"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="107"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="107"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_14" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="115"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="115"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="115"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="115"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_15" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="123"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="123"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="123"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="123"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_16" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="131"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="131"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="131"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="131"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_17" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="139"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="139"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="139"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="139"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_18" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="147"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="147"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="147"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="147"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_19" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="155"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="155"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="155"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="155"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_20" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="163"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="163"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="163"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="163"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_21" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="171"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="171"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="171"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="171"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_22" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="179"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="179"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="179"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="179"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_23" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="187"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="187"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="187"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="187"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_24" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="195"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="195"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="195"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="195"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_25" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="203"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="203"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="203"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="203"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_26" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="211"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="211"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="211"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="211"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_27" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="219"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="219"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="219"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="219"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_28" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="227"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="227"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="227"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="227"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_29" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="235"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="235"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="235"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="235"/>
+      </Fixture>
+    </Step>
+    <Step name="macro_30" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="243"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="243"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="243"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="243"/>
+      </Fixture>
+    </Step>
+    <Step name="rainbow_color" length="500">
+      <Fixture id="1681943361">
+        <Channel index="21" name="color_macro" value="251"/>
+      </Fixture>
+      <Fixture id="1681943362">
+        <Channel index="21" name="color_macro" value="251"/>
+      </Fixture>
+      <Fixture id="1681943363">
+        <Channel index="21" name="color_macro" value="251"/>
+      </Fixture>
+      <Fixture id="1681943012">
+        <Channel index="21" name="color_macro" value="251"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,128 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 1
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1679574878
+Name = uplights
+DMX = 96
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1679574879
+Name = uplights #2
+DMX = 101
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1679574880
+Name = uplights #3
+DMX = 106
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_3]
+ID = 1679574881
+Name = uplights #4
+DMX = 111
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_4]
+ID = 1679574882
+Name = uplights #5
+DMX = 116
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_5]
+ID = 1679574883
+Name = uplights #6
+DMX = 121
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_6]
+ID = 1679574884
+Name = uplights #7
+DMX = 126
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_7]
+ID = 1679574885
+Name = uplights #8
+DMX = 131
+Channels = red,green,blue,white,amber
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[RGB]
+Selected = 1
+CurveName = Default Curve
+Transition = 2
+Duration = 50
+Shift = 12.5
+Point_0 = 24997,47034
+Point_1 = 25448,18279
+Point_2 = 49545,31653
+[white]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[amber]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

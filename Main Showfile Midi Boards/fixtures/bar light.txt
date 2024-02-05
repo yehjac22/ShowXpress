@@ -1,0 +1,90 @@
+﻿ViewType = VIEW_TYPE_NOTHING
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = 
+
+Channel = tilt
+
+Channel = pantilt_speed
+
+Channel = effect_macro
+ closed,0,10 macro_1,11,20 macro_2,21,31 macro_3,32,42 macro_4,43,53 macro_5,54,64 macro_6,65,75 macro_7,76,86 macro_8,87,97 macro_9,98,108 macro_10,109,119 macro_11,120,130 macro_12,131,141 macro_13,142,152 macro_14,153,163 macro_15,164,174 macro_16,175,185 macro_17,186,196 macro_18,197,207 macro_19,208,218 macro_20,219,229 macro_21,230,240 macro_22,241,250 audio,251,255 
+
+Channel = beam_effect_macro_sound
+
+Channel = dimmer
+
+Channel = strobe_effect
+
+Channel = red, , 1
+
+Channel = green, , 1
+
+Channel = blue, , 1
+
+Channel = white, , 1
+
+Channel = red, , 2
+
+Channel = green, , 2
+
+Channel = blue, , 2
+
+Channel = white, , 2
+
+Channel = red, , 3
+
+Channel = green, , 3
+
+Channel = blue, , 3
+
+Channel = white, , 3
+
+Channel = red, , 4
+
+Channel = green, , 4
+
+Channel = blue, , 4
+
+Channel = white, , 4
+
+Channel = red, , 5
+
+Channel = green, , 5
+
+Channel = blue, , 5
+
+Channel = white, , 5
+
+Channel = red, , 6
+
+Channel = green, , 6
+
+Channel = blue, , 6
+
+Channel = white, , 6
+
+Channel = red, , 7
+
+Channel = green, , 7
+
+Channel = blue, , 7
+
+Channel = white, , 7
+
+Channel = red, , 8
+
+Channel = green, , 8
+
+Channel = blue, , 8
+
+Channel = white, , 8
+
